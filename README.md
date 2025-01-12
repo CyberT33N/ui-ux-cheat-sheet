@@ -6,11 +6,20 @@
 
 # UI
 
-
+<br><br>
 
 ## Ideas
+
+<br><br>
+
+### Fully websites
 - https://recent.design/
-- https://calltoinspiration.com/
+- https://www.supahero.io/ **HOT**
+
+<br><br>
+
+### Elements
+- - https://calltoinspiration.com/ **HOT**
 
 
 
