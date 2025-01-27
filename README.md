@@ -99,9 +99,6 @@ ___
 <details><summary>Click to expand..</summary>
 
 
-## Third Party Collections
-
-<details><summary>Click to expand..</summary>
 
 ### Material Design
 - [Bootstrap 4 Collection](https://codepen.io/mdbootstrap/pen/LRNZBz)
@@ -110,7 +107,9 @@ ___
 - [Website 1](https://codepen.io/veronicadev/details/YYvjzO)
 - [Website 2](https://codepen.io/team/webflow/pen/pvydKd)
 
-</details>
+
+<br><br>
+
 
 ## Email Templates
 
