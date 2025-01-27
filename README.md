@@ -27,6 +27,10 @@
 
 ## Ideas
 
+
+# Public Websites that look good
+- https://clerk.com/
+  
 <br><br>
 
 ### Fully websites
@@ -45,6 +49,10 @@
 
 
 
+<br><br>
+<br><br>
+___
+___
 <br><br>
 <br><br>
 
