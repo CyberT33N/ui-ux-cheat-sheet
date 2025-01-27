@@ -99,8 +99,6 @@ ___
 <details><summary>Click to expand..</summary>
 
 
-# Code Snippets Cheat Sheet
-
 ## Third Party Collections
 
 <details><summary>Click to expand..</summary>
