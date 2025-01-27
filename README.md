@@ -27,7 +27,8 @@
 
 ## Ideas
 
-
+<details><summary>Click to expand..</summary>
+  
 # Public Websites that look good
 - https://clerk.com/
   
@@ -40,7 +41,19 @@
 <br><br>
 
 ### Elements
-- - https://calltoinspiration.com/ **HOT**
+- https://calltoinspiration.com/ **HOT**
+
+
+</details>
+
+
+
+
+
+
+
+
+
 
 
 
