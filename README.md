@@ -407,7 +407,7 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 
 
-<br><br>
+
 
 <details><summary>📝 SVG Animations (Text)</summary>
 
@@ -423,7 +423,7 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 
 
-<br><br>
+
 
 <details><summary>📜 Scroll Animation</summary>
 
@@ -446,7 +446,7 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 
 
-<br><br>
+
 
 <details><summary>🔲 Border Animation</summary>
 
