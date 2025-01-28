@@ -808,6 +808,11 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 </details>
 
+
+
+
+<br><br>
+
 <details><summary>📸 Image Transitions</summary>
 
 | Resource | Link |
@@ -815,6 +820,27 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Image Transitions 1 | [Image Transitions 1](https://codepen.io/sfi0zy/pen/OQOExE) |
 
 </details>
+
+
+
+<br><br>
+
+
+<details><summary>🖼️ Image Utilities</summary>
+
+| 🖼️ **Resource** | 🔗 **Link** |
+|---|---|
+| 🪞 Image Compare | [Image Compare](https://ui.aceternity.com/components/compare) |
+
+</details>  
+
+
+
+
+
+
+<br><br>
+
 
 ---
 ## 🏢 Logo & Social Media
