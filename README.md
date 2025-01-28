@@ -403,6 +403,12 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 </details>
 
+
+
+
+
+<br><br>
+
 <details><summary>📝 SVG Animations (Text)</summary>
 
 | Resource | Link |
@@ -413,13 +419,34 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 </details>
 
+
+
+
+
+<br><br>
+
 <details><summary>📜 Scroll Animation</summary>
 
 | Resource | Link |
 |---|---|
 | Scroll Animation | [Scroll Animation](https://codepen.io/GreenXIII/pen/VKbNWV) |
+| Tracing Beam **HOT** - shacdn | [https://ui.aceternity.com/components/tracing-beam) |
+| Timeline - shacdn | [https://ui.aceternity.com/components/tracing-beam) |
+| Container Scroll Animation **HOT** - shacdn | [https://ui.aceternity.com/components/container-scroll-animation) |
+| Google Gemini Effect - shacdn | [https://ui.aceternity.com/components/google-gemini-effect) |
+
 
 </details>
+
+
+
+
+
+
+
+
+
+<br><br>
 
 <details><summary>🔲 Border Animation</summary>
 
@@ -435,14 +462,29 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 </details>
 
+
+
+
+
+<br><br>
+
 <details><summary>✍️ Text Animation</summary>
 
 | Resource | Link |
 |---|---|
 | Text Animation 1 | [Text Animation 1](https://codepen.io/team/keyframers/pen/vYNyWwQ) |
 | Text Animation 2 | [Text Animation 2](https://codepen.io/KaioRocha/pen/YoEVvZ) |
+| Flip Words **HOT** - shacdn | [Flip Words](https://ui.aceternity.com/components/flip-words) |
+
+
 
 </details>
+
+<br><br>
+
+
+
+
 
 <details><summary>🎬 Anime.js</summary>
 
