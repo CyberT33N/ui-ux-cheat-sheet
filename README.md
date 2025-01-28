@@ -714,6 +714,17 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Responsive card slider | [Responsive card slider](https://codepen.io/JavaScriptJunkie/pen/WgRBxw) |
 | Gradient **HOT** | [Gradient **HOT**](https://codepen.io/kristen17/pen/NPKrxBd) |
 | Gradien Border **HOT** | [Gradien Border **HOT**](https://codepen.io/jh3y/pen/WNmQXyE) |
+| Infinite Moving Cards **HOT** - shacdn | [Infinite Moving Cards **HOT**](https://ui.aceternity.com/components/infinite-moving-cards) |
+| Evervault Card **HOT** - shacdn | [Evervault Card **HOT**](https://ui.aceternity.com/components/evervault-card) |
+| 3D Card Effect **HOT** - shacdn | [3D Card Effect **HOT** ](https://ui.aceternity.com/components/3d-card-effect) |
+| 3D Animated Pin **HOT** - shacdn | [3D Animated Pin **HOT**](https://ui.aceternity.com/components/3d-pin) |
+| Background Gradient - shacdn | [Background Gradient(https://ui.aceternity.com/components/background-gradient) |
+| Hover Effect - shacdn | [Hover Effect](https://ui.aceternity.com/components/card-hover-effect) |
+
+
+
+
+
 
 </details>
 
@@ -750,6 +761,10 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Tooltips 1 | [Tooltips 1](https://codepen.io/veronicadev/pen/LrZaov) |
 | Success & Error 1 | [Success & Error 1](https://codepen.io/MariamSalloum/pen/PBxKzd) |
 | Tooltips 2 | [Tooltips 2](https://codepen.io/prallen/details/AsECw) |
+| Animated Tooltip - shacdn **HOT** | [Animated Tooltip](https://ui.aceternity.com/components/animated-tooltip) |
+
+
+
 
 </details>
 
@@ -871,6 +886,12 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Three.js mutating field | [Three.js mutating field](https://codepen.io/Samsy/pen/emWppX) |
 | POV moving hills ride | [POV moving hills ride](https://codepen.io/ykob/pen/aBrjaR) |
 | Infinite Falling Illusion | WebGL Shader **HOT** | [Infinite Falling Illusion | WebGL Shader **HOT**](https://codepen.io/pjkarlik/pen/mybEwjG) |
+| Sparkles - shacdn | [Sparkles](https://ui.aceternity.com/components/sparkles) |
+| Aurora Background **HOT** - shacdn | [Aurora Background](https://ui.aceternity.com/components/aurora-background) |
+| Hero Highlight - shacdn | [Hero Highlight](https://ui.aceternity.com/components/hero-highlight) |
+
+
+
 
 </details>
 
