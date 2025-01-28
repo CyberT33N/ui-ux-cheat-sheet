@@ -113,7 +113,11 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Website 2 | [Website 2](https://codepen.io/team/webflow/pen/pvydKd) |
 
 ---
+
+
 ## 📧 Email Templates
+
+<details><summary>Click to expand..</summary>
 
 ### ✉️ Basic HTML Email
 
@@ -192,6 +196,9 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | | Clean big image | [Clean big image](https://codepen.io/reallygoodemails/pen/ELoOvj) |
 | | Material Design | [Material Design](https://codepen.io/judecodes/pen/YBdMLZ) |
 
+</details>
+
+
 ---
 ## 🧱 Layout Elements
 
@@ -199,10 +206,9 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 | Resource | Link |
 |---|---|
-| Grid 1 | [Grid 1](https://codepen.io/dtab428/pen/bRwMeq) |
+| Grid 1 **HOT** | [Grid 1](https://codepen.io/dtab428/pen/bRwMeq) |
 | Grid 2 | [Grid 2](https://codepen.io/JohnRiordan/details/Xbjwqe) |
-| Grid 3 | [Grid 3](https://codepen.io/tstoik/pen/qZEZJp) |
-| Grid 4 | [Grid 4](https://codepen.io/team/keyframers/pen/EzMyQe) |
+| Hexagon Grid | [Hexagon Grid](https://codepen.io/tstoik/pen/qZEZJp) |
 
 </details>
 
@@ -210,18 +216,9 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 | Resource | Link |
 |---|---|
-| Tabs 1 | [Tabs 1](https://codepen.io/RGonyeau/pen/Mvrzxx) |
-| Tabs 2 | [Tabs 2](https://codepen.io/jdniki/pen/PzZERJ) |
-| Tabs 3 | [Tabs 3](https://codepen.io/ejsado/pen/gPVgVv) |
-| Tabs 4 | [Tabs 4](https://codepen.io/creativetim/pen/EgVBXa) |
-| Tabs 5 | [Tabs 5](https://codepen.io/Danil89/pen/ONBoyG) |
-| Vertical Tabs | [Vertical Tabs](https://codepen.io/juliepark/pen/pLMxoP) |
-| Fullscreen Slideshow Tabs | [Fullscreen Slideshow Tabs](https://codepen.io/pbutcher/pen/yLLKbNo) |
-| Fullscreen Boxes Tabs | [Fullscreen Boxes Tabs](https://codepen.io/dtab428/pen/yYJKma) |
-| Fullscreen Tabs | [Fullscreen Tabs](https://codepen.io/team/webflow/pen/dPeVaG) |
-| Swipe Tabs | [Swipe Tabs](https://codepen.io/federico/pen/mRovqE) |
-| Tabs 6 | [Tabs 6](https://codepen.io/sean_codes/pen/QpoQMR) |
-| Tabs 7 | [Tabs 7](https://codepen.io/interstellar/pen/qaRJwm) |
+| Tabs 1 **HOT** | [Tabs 1](https://codepen.io/RGonyeau/pen/Mvrzxx) |
+| Tabs 2 **HOT** | [Tabs 2](https://codepen.io/jdniki/pen/PzZERJ) |
+| Tabs 4 **HOT** | [Tabs 4](https://codepen.io/creativetim/pen/EgVBXa) |
 
 </details>
 
