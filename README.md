@@ -866,7 +866,7 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 
 
-<br><br>
+
 
 <details><summary>📸 Image Transitions</summary>
 
@@ -878,7 +878,12 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 
 
-<br><br>
+
+
+
+
+
+
 
 
 <details><summary>🖼️ Image Utilities</summary>
