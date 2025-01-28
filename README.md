@@ -83,8 +83,6 @@ ___
 
 
 
-
-
 <br><br>
 <br><br>
 ___
@@ -92,34 +90,34 @@ ___
 <br><br>
 <br><br>
 
-# 🧰 Sammlung von Web-Elementen und Design-Ressourcen
+# 🧰 Collection of Web Elements and Design Resources
 
-<details><summary>💡 Klick zum Aufklappen - Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen</summary>
+<details><summary>💡 Click to Expand - A curated list of code snippets, UI elements, and design resources</summary>
 
-Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die Ihnen bei der Entwicklung helfen können.
+A curated list of code snippets, UI elements, and design resources to help you with development.
 
 ---
-## 🚀 Grundlagen & Inspiration
+## 🚀 Basics & Inspiration
 
 ### 🎨 Material Design
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Bootstrap 4 Collection | [Bootstrap 4 Collection](https://codepen.io/mdbootstrap/pen/LRNZBz) |
 
-### 🌐 Komplexe Webseiten Beispiele
+### 🌐 Complex Website Examples
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Website 1 | [Website 1](https://codepen.io/veronicadev/details/YYvjzO) |
 | Website 2 | [Website 2](https://codepen.io/team/webflow/pen/pvydKd) |
 
 ---
-## 📧 E-Mail Templates
+## 📧 Email Templates
 
-### ✉️ Grundlagen HTML E-Mail
+### ✉️ Basic HTML Email
 
-| Plattform | Ressource | Link |
+| Platform | Resource | Link |
 |---|---|---|
 | Gmail | How to send HTML email via Gmail | [How to send HTML email via Gmail](https://www.youtube.com/watch?v=MsMSqhMlfao) |
 | AppScript | How to send HTML email via AppScript | [How to send HTML email via AppScript](https://codegena.com/send-mail-merge-html-emails-using-google-appscripts/) |
@@ -154,15 +152,15 @@ Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die
     }
     ``` |  |
 
-### ⚙️ CSS/HTML Kompatibilität in E-Mails
+### ⚙️ CSS/HTML Compatibility in Emails
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Can I email | [Can I email](https://www.caniemail.com) |
 
-### 📱 Responsive E-Mail Templates
+### 📱 Responsive Email Templates
 
-| Kategorie | Ressource | Link |
+| Category | Resource | Link |
 |---|---|---|
 | **🔥 Hot & Tested** | Multi-layer ★ **HOT** - TESTED | [Multi-layer ★ **HOT** - TESTED](https://codepen.io/rodriguezcommaj/pen/RNPzwr) |
 |  | Multi-layer ★ **HOT** ★ | [Multi-layer ★ **HOT** ★](https://codepen.io/Mestika/pen/bEerrv) |
@@ -188,18 +186,18 @@ Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die
 |  | Clean card with bg | [Clean card with bg](https://codepen.io/faudau/pen/zJombX) |
 |  | Clean card 2 | [Clean card 2](https://codepen.io/saurya3579/pen/poJKdWP) |
 |  | Clean 3 | [Clean 3](https://codepen.io/visionarymarketer/pen/rLqZqx) |
-| Andere | Animated? | [Animated?](https://codepen.io/reallygoodemails/pen/yJagbN) |
+| Other | Animated? | [Animated?](https://codepen.io/reallygoodemails/pen/yJagbN) |
 | | Transition image | [Transition image](https://codepen.io/Romaric_aboule/pen/gOpywgG) |
 | | Image transition | [Image transition](https://codepen.io/Mr_Rahul_Tiwari/pen/Wqzqpd) |
 | | Clean big image | [Clean big image](https://codepen.io/reallygoodemails/pen/ELoOvj) |
 | | Material Design | [Material Design](https://codepen.io/judecodes/pen/YBdMLZ) |
 
 ---
-## 🧱 Layout Elemente
+## 🧱 Layout Elements
 
-<details><summary>🖼️ Bild-Gitter</summary>
+<details><summary>🖼️ Image Grids</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Grid 1 | [Grid 1](https://codepen.io/dtab428/pen/bRwMeq) |
 | Grid 2 | [Grid 2](https://codepen.io/JohnRiordan/details/Xbjwqe) |
@@ -208,9 +206,9 @@ Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die
 
 </details>
 
-<details><summary>🗂️ Tab-Navigation</summary>
+<details><summary>🗂️ Tab Navigation</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Tabs 1 | [Tabs 1](https://codepen.io/RGonyeau/pen/Mvrzxx) |
 | Tabs 2 | [Tabs 2](https://codepen.io/jdniki/pen/PzZERJ) |
@@ -229,7 +227,7 @@ Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die
 
 <details><summary> 🎢 Slider</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Gradient Slider | [Gradient Slider](https://codepen.io/egrucza/pen/LEoOQZ) |
 
@@ -237,18 +235,18 @@ Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die
 
 <details><summary> 🗄️ Sidebar</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Sidebar 1 | [Sidebar 1](https://codepen.io/azouaoui-med/pen/wpBadb) |
 
 </details>
 
 ---
-## 🕹️ Interaktive Elemente
+## 🕹️ Interactive Elements
 
-<details><summary>✒️ Text-Effekte</summary>
+<details><summary>✒️ Text Effects</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Shimmer Effect | [Shimmer Effect](https://codepen.io/redouglas/pen/gobsm) |
 | Multiple Shadows | [Multiple Shadows](https://codepen.io/tommyho/pen/abejXMb) |
@@ -257,7 +255,7 @@ Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die
 
 <details><summary>🖼️ Lightbox</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Lightbox 1 | [Lightbox 1](https://codepen.io/ezra_siton/pen/XNpJaX) |
 | PhotoSwipe | [PhotoSwipe](https://photoswipe.com/) |
@@ -276,24 +274,24 @@ Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die
 
 <details><summary>⏱️ Easing</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Easing Cheat Sheet | [Easing Cheat Sheet](https://easings.net/) |
 | animejs | [animejs](https://animejs.com/documentation/#pennerFunctions) |
 
 </details>
 
-<details><summary>🎵 Musik Player</summary>
+<details><summary>🎵 Music Player</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Music Player 1 | [Music Player 1](https://codepen.io/ecemgo/pen/vYPadZz) |
 
 </details>
 
-<details><summary> 📧 Kontaktformular</summary>
+<details><summary>📧 Contact Form</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Contact Form 1 | [Contact Form 1](https://codepen.io/jq/pen/rVVQXz) |
 | Contact Form 2 | [Contact Form 2](https://codepen.io/rickyeckhardt/pen/rNVOrBL) |
@@ -309,61 +307,60 @@ Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die
 
 </details>
 
-<details><summary> 🚧 Fehlerseiten</summary>
+<details><summary>🚧 Error Pages</summary>
 
-| Kategorie | Ressource | Link |
+| Category | Resource | Link |
 |---|---|---|
 | ### 403 (Forbidden) Error Page | Typing Console | [Typing Console](https://codepen.io/leenalavanya/pen/RYqvgK) |
 | | Perspective | [Perspective](https://codepen.io/pgalor/pen/dqQqqx) |
 | ### 404 (Not Found) Error Page | Lost Astronaut | [Lost Astronaut](https://codepen.io/eroxburgh/pen/zYYyEPg) |
 | | Jungle | [Jungle](https://codepen.io/uiswarup/pen/dyoyLOp) |
-| ### 500 (Internal Server) Error Page | 500 Error Page | [500 Error Page](https://codepen.io/Souleste/pen/QWLxPPr) |
 
 </details>
 
-<details><summary>👆 Hover Effekte</summary>
+<details><summary>👆 Hover Effects</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Hover Plugin | [Hover Plugin](https://github.com/IanLunn/Hover) |
 
 </details>
 
-<details><summary> ℹ️ UserAgent Infos</summary>
+<details><summary>ℹ️ UserAgent Infos</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | UserAgent Database | [UserAgent Database](https://developers.whatismybrowser.com/useragents/explore/operating_platform/) |
 
 </details>
 
-<details><summary> ⚛️ Partikel Effekte</summary>
+<details><summary>⚛️ Particle Effects</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | WebGL Particle Animation | [WebGL Particle Animation](https://codepen.io/kenjiSpecial/pen/vELOrM) |
 
 </details>
 
-<details><summary> 📊 Tabellen</summary>
+<details><summary>📊 Tables</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Table 1 | [Table 1](https://codepen.io/heypablete/pen/qdIsm) |
 
 </details>
 
-<details><summary> 🔎 JSON Viewer</summary>
+<details><summary>🔎 JSON Viewer</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | JSON Viewer | [JSON Viewer](http://jsonmaker.com/) |
 
 </details>
 
-<details><summary> 🖱️ Maus Cursor</summary>
+<details><summary>🖱️ Mouse Cursor</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | CSS Cursors Guide | [CSS Cursors Guide](https://css-tricks.com/using-css-cursors/) |
 | All available cursors | [All available cursors](https://codepen.io/chriscoyier/pen/uCwfB) |
@@ -371,17 +368,17 @@ Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die
 | Sticky Cursor **HOT** | [Sticky Cursor **HOT**](https://codepen.io/dev_loop/pen/abxJMxL) |
 
 </details>
-<details><summary>🖱️ Maus Cursor SVG Collection</summary>
+<details><summary>🖱️ Mouse Cursor SVG Collection</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | SVG Collection | [SVG Collection](https://mega.nz/file/y3pUUCZS#NPEm6f00U2VLweB0BXLL5yf5BUU53Ndd4f0b-TvW534) |
 
 </details>
 
-<details><summary> 🔄 Ladeanzeigen (Spinner)</summary>
+<details><summary>🔄 Loading Indicators (Spinners)</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | loading.io | [loading.io](https://loading.io/) |
 | Spinner 1 | [Spinner 1](https://codepen.io/ahmadbassamemran/pen/bXRPdr) |
@@ -398,20 +395,20 @@ Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die
 </details>
 
 ---
-## ✨ Animationen & Effekte
+## ✨ Animations & Effects
 
-<details><summary> 💫 SVG Animationen</summary>
+<details><summary>💫 SVG Animations</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Lava Lamp | [Lava Lamp](https://codepen.io/lukesmetham/pen/yJVwVr) |
 | Developer with notebook | [Developer with notebook](https://codepen.io/jeanoliveira/pen/ObWYmY) |
 
 </details>
 
-<details><summary>📝 SVG Animationen (Text)</summary>
+<details><summary>📝 SVG Animations (Text)</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Text Animation 1 | [Text Animation 1](https://codepen.io/codecollective/pen/NqqENm) |
 | Text Animation 2 | [Text Animation 2](https://codepen.io/gzmiraz/pen/XmqWWx) |
@@ -419,17 +416,17 @@ Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die
 
 </details>
 
-<details><summary> 📜 Scroll Animation</summary>
+<details><summary>📜 Scroll Animation</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Scroll Animation | [Scroll Animation](https://codepen.io/GreenXIII/pen/VKbNWV) |
 
 </details>
 
-<details><summary> 🔲 Border Animation</summary>
+<details><summary>🔲 Border Animation</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Border Animation 1 | [Border Animation 1](https://codepen.io/Rplus/pen/lEDBj) |
 | Border Animation 2 | [Border Animation 2](https://codepen.io/uiswarup/pen/RBByzW) |
@@ -441,18 +438,18 @@ Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die
 
 </details>
 
-<details><summary> ✍️ Text Animation</summary>
+<details><summary>✍️ Text Animation</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Text Animation 1 | [Text Animation 1](https://codepen.io/team/keyframers/pen/vYNyWwQ) |
 | Text Animation 2 | [Text Animation 2](https://codepen.io/KaioRocha/pen/YoEVvZ) |
 
 </details>
 
-<details><summary> 🎬 Anime.js</summary>
+<details><summary>🎬 Anime.js</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Animated Letters | [Animated Letters](https://tobiasahlin.com/moving-letters/) |
 | Staggering | [Staggering](https://codepen.io/juliangarnier/pen/XvjWvx) |
@@ -462,28 +459,28 @@ Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die
 
 </details>
 
-<details><summary> 📦 Animierte Objekte</summary>
+<details><summary>📦 Animated Objects</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Animation Plugin | [Animation Plugin](https://animate.style/) |
 
 </details>
 
-<details><summary> ⌨️ Typing Animation</summary>
+<details><summary>⌨️ Typing Animation</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Typing animation | [Typing animation](https://codepen.io/Zhouzi/pen/JoRazP) |
 
 </details>
 
 ---
-## 🔘 Buttons & Eingabe Elemente
+## 🔘 Buttons & Input Elements
 
-<details><summary> 🔘 Allgemeine Buttons</summary>
+<details><summary>🔘 General Buttons</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | 3D Flip Glitch Buttons | [3D Flip Glitch Buttons](https://codepen.io/cybert33n/pen/yXwZVx) |
 | Button.css | [Button.css](https://codepen.io/kevinfan23/pen/BKbWxP) |
@@ -498,25 +495,25 @@ Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die
 
 </details>
 
-<details><summary> 🌗 Dark/white Mode Button</summary>
+<details><summary>🌗 Dark/white Mode Button</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Dark/white Mode **HOT** | [Dark/white Mode **HOT**](https://codepen.io/jh3y/pen/ByBjxrW) |
 
 </details>
 
-<details><summary> 📝 Text Verifizierung</summary>
+<details><summary>📝 Text Verification</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Text Verification 1 | [Text Verification 1](https://codepen.io/AlikinVV/pen/WLpRdg) |
 
 </details>
 
-<details><summary> ✅ Erfolgs Button</summary>
+<details><summary>✅ Success Button</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Confetti Button | [Confetti Button](https://codepen.io/aaroniker/pen/bGVGNrV) |
 | With Loading | [With Loading](https://codepen.io/eliortabeka/pen/xOrQZA) |
@@ -527,33 +524,33 @@ Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die
 
 </details>
 
-<details><summary> 🗑️ Löschen Button</summary>
+<details><summary>🗑️ Delete Button</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Delete Button 1 | [Delete Button 1](https://codepen.io/estrepitos/pen/JAtKr) |
 
 </details>
 
-<details><summary> ❌ Schließen Button</summary>
+<details><summary>❌ Close Button</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Animated Close Buttons | [Animated Close Buttons](https://codepen.io/JonasBadalic/pen/MYaMBz) |
 
 </details>
 
-<details><summary> 🚀 Veröffentlichen Button</summary>
+<details><summary>🚀 Publish Button</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Hold to Verify | [Hold to Verify](https://codepen.io/aaroniker/pen/BayaBpV) |
 
 </details>
 
-<details><summary> ⬇️ Download Button</summary>
+<details><summary>⬇️ Download Button</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Download Button 1 | [Download Button 1](https://codepen.io/aaroniker/pen/yRdoYN) |
 | Download Button 2 | [Download Button 2](https://codepen.io/lalit-mohan/pen/rrEzLp) |
@@ -563,51 +560,51 @@ Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die
 
 </details>
 
-<details><summary> 🛒 In den Warenkorb Button</summary>
+<details><summary>🛒 Add to Cart Button</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Add to cart Button | [Add to cart Button](https://codepen.io/aaroniker/pen/QWWXKVP) |
 
 </details>
 
-<details><summary> ✉️ Senden Button</summary>
+<details><summary>✉️ Send Button</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Send Button | [Send Button](https://codepen.io/aaroniker/pen/BajabVN) |
 
 </details>
 
-<details><summary> ✅ Aktivieren Button</summary>
+<details><summary>✅ Activate Button</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Activate Button | [Activate Button](https://codepen.io/aaroniker/pen/ZVOrOZ) |
 
 </details>
 
-<details><summary> ⬆️ Upload Button</summary>
+<details><summary>⬆️ Upload Button</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Upload Button 1 | [Upload Button 1](https://codepen.io/balapa/pen/VYVedm) |
 | With Pause | [With Pause](https://codepen.io/aaroniker/pen/QXxexJ) |
 
 </details>
 
-<details><summary> 🚚 Bestellung aufgeben Button</summary>
+<details><summary>🚚 Place Order Button</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Animation with truck 1 | [Animation with truck 1](https://codepen.io/aaroniker/pen/eYOVrNa) |
 | Animation with truck 2 | [Animation with truck 2](https://codepen.io/aaroniker/pen/oNgPOwo) |
 
 </details>
 
-<details><summary> ☑️ Checkbox</summary>
+<details><summary>☑️ Checkbox</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Checkbox 1 | [Checkbox 1](https://codepen.io/alexjoffroy/pen/ORXOmR) |
 
@@ -616,17 +613,17 @@ Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die
 ---
 ## 🧭 Navigation & UI
 
-<details><summary> 💬 Chat UI</summary>
+<details><summary>💬 Chat UI</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Chat UI 1 | [Chat UI 1](https://codepen.io/Momciloo/pen/bEdbxY) |
 
 </details>
 
-<details><summary> 🔢 Pagination</summary>
+<details><summary>🔢 Pagination</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Pagination 1 | [Pagination 1](https://codepen.io/hakimel/details/gfIsk) |
 | Pagination 2 | [Pagination 2](https://codepen.io/netzzwerg/pen/hfutI) |
@@ -636,19 +633,19 @@ Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die
 
 </details>
 
-<details><summary> ☰ Menü Bar</summary>
+<details><summary>☰ Menu Bar</summary>
 
-<details><summary> 🍔 Hamburger Menu Animation</summary>
+<details><summary>🍔 Hamburger Menu Animation</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Hamburger Menu Animation | [Hamburger Menu Animation](https://codepen.io/ahmadbassamemran/pen/abopOMY) |
 
 </details>
 
-<details><summary> 📱 Menü Bar Mobil</summary>
+<details><summary>📱 Menu Bar Mobile</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Mobile Menubar 1 | [Mobile Menubar 1](https://codepen.io/7ssan91/pen/dqLmpP) |
 | Mobile Menubar 2 | [Mobile Menubar 2](https://codepen.io/raffaele-filiberti/pen/mPQqVW) |
@@ -656,9 +653,9 @@ Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die
 
 </details>
 
-<details><summary> 💻 Menü Bar Desktop</summary>
+<details><summary>💻 Menu Bar Desktop</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Desktop Menubar 1 | [Desktop Menubar 1](https://codepen.io/will627/pen/ehEpA) |
 | Desktop Menubar 2 | [Desktop Menubar 2](https://codepen.io/ejsado/pen/gPVgVv) |
@@ -675,9 +672,9 @@ Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die
 
 </details>
 
-<details><summary> 🗄️ Sidebar Menu</summary>
+<details><summary>🗄️ Sidebar Menu</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Sidebar Menu 1 | [Sidebar Menu 1](https://codepen.io/jcoulterdesign/pen/qdWxEm) |
 
@@ -686,28 +683,28 @@ Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die
 </details>
 
 ---
-## 🎛️ Oberflächen Komponenten
+## 🎛️ UI Components
 
-<details><summary> 📊 Prozentanzeige</summary>
+<details><summary>📊 Percentage Display</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Animated Circle | [Animated Circle](https://codepen.io/like-a-boss/pen/pgqgKq) |
 | Multiple Charts | [Multiple Charts](https://codepen.io/FilipDanic/pen/xbgbaQ) |
 
 </details>
 
-<details><summary> 📃 One Page Design</summary>
+<details><summary>📃 One Page Design</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | One Page 1 | [One Page 1](https://codepen.io/Cutcopy/pen/LpBPLe) |
 
 </details>
 
-<details><summary> 🎴 Karten Elemente</summary>
+<details><summary>🎴 Card Elements</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Card 2 | [Card 2](https://codepen.io/iMax723/pen/aNKQyE) |
 | Card 3 | [Card 3](https://codepen.io/littlesnippets/pen/VvorBN) |
@@ -723,17 +720,17 @@ Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die
 
 </details>
 
-<details><summary> 🪟 Popup</summary>
+<details><summary>🪟 Popup</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Popup 1 | [Popup 1](https://codepen.io/melnik909/pen/QModrM) |
 
 </details>
 
-<details><summary> 🔔 Erfolgsmeldungen</summary>
+<details><summary>🔔 Success Messages</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Modal Box animated | [Modal Box animated](https://codepen.io/hynden/pen/qlsJy) |
 | Success 1 | [Success 1](https://codepen.io/souporserious/pen/MwmXdg) |
@@ -748,9 +745,9 @@ Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die
 
 </details>
 
-<details><summary> ⚠️ Erfolgsmeldungen & Fehler</summary>
+<details><summary>⚠️ Success Messages & Errors</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Animated characters | [Animated characters](https://codepen.io/juliepark/pen/vjMOKQ) |
 | Tooltips 1 | [Tooltips 1](https://codepen.io/veronicadev/pen/LrZaov) |
@@ -759,9 +756,9 @@ Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die
 
 </details>
 
-<details><summary> 🗣️ Testimonials</summary>
+<details><summary>🗣️ Testimonials</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Slider 1 | [Slider 1](https://codepen.io/shamim539/pen/GZPZBp) |
 | Slider 2 | [Slider 2](https://codepen.io/Aashima/pen/WdQQMr) |
@@ -773,11 +770,11 @@ Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die
 </details>
 
 ---
-## 🖼️ Bild Elemente
+## 🖼️ Image Elements
 
-<details><summary> 🎠 Bild Karussell</summary>
+<details><summary>🎠 Image Carousel</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Owl Carousel Plugin | [Owl Carousel Plugin](https://owlcarousel2.github.io/OwlCarousel2/) |
 | Carousel 1 | [Carousel 1](https://codepen.io/ccallen001/pen/bEYByd) |
@@ -790,18 +787,18 @@ Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die
 
 </details>
 
-<details><summary> 🏞️ Bilder Galerien</summary>
+<details><summary>🏞️ Image Galleries</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Gallery 1 | [Gallery 1](https://codepen.io/andata/pen/pEyAGj) |
 | Responsive Vertical Scrolling Parallax Gallery **HOT** | [Responsive Vertical Scrolling Parallax Gallery **HOT**](https://codepen.io/noirsociety/pen/NWJvgZg) |
 
 </details>
 
-<details><summary> 📸 Bild Übergänge</summary>
+<details><summary>📸 Image Transitions</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Image Transitions 1 | [Image Transitions 1](https://codepen.io/sfi0zy/pen/OQOExE) |
 
@@ -810,9 +807,9 @@ Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die
 ---
 ## 🏢 Logo & Social Media
 
-<details><summary> 🏢 Logos</summary>
+<details><summary>🏢 Logos</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Logo 1 | [Logo 1](https://codepen.io/mkmueller/pen/dCEhA) |
 | Orbit Logo | [Orbit Logo](https://codepen.io/guerreiro/pen/obhzc) |
@@ -821,9 +818,9 @@ Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die
 
 </details>
 
-<details><summary> 🌐 Social Media Links</summary>
+<details><summary>🌐 Social Media Links</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Social Media 1 | [Social Media 1](https://codepen.io/nouribram/pen/WNQzoOd) |
 | Social Media 2 | [Social Media 2](https://codepen.io/daniel_wolf/pen/mJRmaQ) |
@@ -834,11 +831,11 @@ Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die
 </details>
 
 ---
-## 🔮 3D & Hintergrund
+## 🔮 3D & Background
 
-<details><summary> ✨ 3D</summary>
+<details><summary>✨ 3D</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Card with mouse follow | [Card with mouse follow](https://codepen.io/lembitk/pen/EVmqmY) |
 | 3D 1 | [3D 1](https://codepen.io/yotman/pen/VEzXJp) |
@@ -848,9 +845,9 @@ Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die
 
 </details>
 
-<details><summary> 🌄 Hintergründe</summary>
+<details><summary>🌄 Backgrounds</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Background Generator | [Background Generator](https://loading.io/background/) |
 | Bridge with clouds | coming soon |
@@ -880,32 +877,32 @@ Eine kuratierte Liste von Code-Snippets, UI-Elementen und Design-Ressourcen, die
 
 </details>
 
-<details><summary> 🌐 WebGL Hintergründe</summary>
+<details><summary>🌐 WebGL Backgrounds</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | WebGL Fluid Simulation | [WebGL Fluid Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) |
 | Vanta.js **HOT** | [Vanta.js **HOT**](https://www.vantajs.com/?effect=trunk) |
 
 </details>
 
-<details><summary> 🎨 Canvas Hintergründe</summary>
+<details><summary>🎨 Canvas Backgrounds</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | AmbientCanvasBackgrounds | [AmbientCanvasBackgrounds](https://github.com/crnacura/AmbientCanvasBackgrounds?tab=readme-ov-file) |
 
 </details>
 
-<details><summary> 🖼️ Hintergrund Bilder (cc0)</summary>
+<details><summary>🖼️ Background Images (cc0)</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Developer on bench | [Developer on bench](https://pixabay.com/photos/work-workaholic-writer-programmer-1627703/) |
 
 </details>
 
-<details><summary> 🌈 Animierte Gradient Hintergründe</summary>
+<details><summary>🌈 Animated Gradient Backgrounds</summary>
 
 ```css
 /* version 1 - multicolor*/
@@ -982,28 +979,28 @@ animation: Gradient 120s ease infinite;
 
 <br><br>
 
-## 📝 Formulare & Authentifizierung
+## 📝 Forms & Authentication
 
-<details><summary> 📰 Newsletter</summary>
+<details><summary>📰 Newsletter</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Animation mailbox | [Animation mailbox](https://codepen.io/lerida/pen/BaoRRbp) |
 | Newsletter 1 | [Newsletter 1](https://codepen.io/YarivFrd/pen/NXomOV) |
 
 </details>
 
-<details><summary> ⏱️ Timeline</summary>
+<details><summary>⏱️ Timeline</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Animated timeline | [Animated timeline](https://codepen.io/vincebrown/pen/BNazqL) |
 
 </details>
 
-<details><summary> 🔑 Anmelden (Sign-in)</summary>
+<details><summary>🔑 Sign-in</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Sign-in 1 | [Sign-in 1](https://codepen.io/marcobiedermann/pen/Fybpf) |
 | Sign-in 2 | [Sign-in 2](https://codepen.io/mycnlz/details/aNNExj) |
@@ -1015,25 +1012,25 @@ animation: Gradient 120s ease infinite;
 
 </details>
 
-<details><summary> 🔒 Passwort erstellen</summary>
+<details><summary>🔒 Create Password</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Create Password | [Create Password](https://codepen.io/davidkpiano/pen/WKvPBP) |
 
 </details>
 
-<details><summary> ✍️ Registrieren (Sign-up)</summary>
+<details><summary>✍️ Sign-up</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Sign-up Button | [Sign-up Button](https://codepen.io/vineethtrv/pen/ZBpebQ) |
 
 </details>
 
-<details><summary> 🔄 Anmelden & Registrieren (Kombiniert)</summary>
+<details><summary>🔄 Sign-in & Sign-up (Combined)</summary>
 
-| Ressource | Link |
+| Resource | Link |
 |---|---|
 | Sign-in & Sign-up 1 | [Sign-in & Sign-up 1](https://codepen.io/joshsorosky/pen/gaaBoB) |
 | Sign-in & Sign-up 2 | [Sign-in & Sign-up 2](https://codepen.io/andytran/pen/GpyKLM) |
@@ -1042,4 +1039,3 @@ animation: Gradient 120s ease infinite;
 </details>
 
 </details>
-
