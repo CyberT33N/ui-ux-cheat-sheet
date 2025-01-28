@@ -652,8 +652,9 @@ animation: Gradient 120s ease infinite;
 }
 ```
 
-</details>
----
+<br><br>
+
+
 ## Formulare & Authentifizierung
 
 ### Newsletter
