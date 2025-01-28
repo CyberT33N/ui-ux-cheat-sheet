@@ -995,7 +995,35 @@ animation: Gradient 120s ease infinite;
 
 </details>
 
+
+
+
 <br><br>
+<br><br>
+
+
+### **🖍️ Syntax Highlight**  
+<details><summary>💻 Code</summary>
+  
+| 📚 **Resource** | 🔗 **Link** |
+|---|---|
+| 📜 Code Block - shacdn | [Code Block](https://ui.aceternity.com/components/code-block) |
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+<br><br>
+
 
 ## 📝 Forms & Authentication
 
