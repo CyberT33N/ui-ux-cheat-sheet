@@ -940,6 +940,9 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Image Carousel | [Image Carousel](https://codepen.io/hoanghien0410/pen/MMPaqm) |
 | Glassomorphic logo | [Glassomorphic logo](https://codepen.io/konstantindenerz/pen/VwoEJqP) |
 | Three.js cards | [Three.js cards](https://codepen.io/smcnally000/pen/eYqXWyJ) |
+| Github Globe **HOT** - shacdn | [Github Globe](https://ui.aceternity.com/components/github-globe) |
+
+
 
 </details>
 
