@@ -1084,6 +1084,13 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 </details>
 
+
+
+
+
+
+
+
 <details><summary>🗣️ Testimonials</summary>
 
 | Resource | Link |
@@ -1096,6 +1103,32 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Static 4 | [Static 4](https://codepen.io/littlesnippets/pen/QjXVrV) |
 
 </details>
+
+
+
+
+
+
+
+<details><summary>🖼️ Scroll-Text & Marquee</summary>
+
+| Resource | Link |
+|---|---|
+| Marquee | [Marquee](https://magicui.design/docs/components/marquee) |
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 ## 🖼️ Image Elements
