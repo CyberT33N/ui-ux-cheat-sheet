@@ -162,6 +162,14 @@ A curated list of code snippets, UI elements, and design resources to help you w
 |---|---|
 | Can I email | [Can I email](https://www.caniemail.com) |
 
+
+
+
+
+
+
+
+
 ### 📱 Responsive Email Templates
 
 | Category | Resource | Link |
@@ -287,6 +295,13 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Animated Shiny Text **HOT** - shacdn | [Animated Shiny Text](https://nyxbui.design/docs/components/animated-shiny-text) |
 | Animated Gradient Text - shacdn | [Animated Gradient Text](https://nyxbui.design/docs/components/animated-gradient-text) |
 | Blur in **HOT** - shacdn | [Blur in](https://ui.indie-starter.dev/docs/text-animation#blur-in) |
+| Text Animate **HOT** | [Text Animate](https://magicui.design/docs/components/text-animate) |
+| Line Shadow Text **HOT** | [Line Shadow Text](https://magicui.design/docs/components/line-shadow-text) |
+| Animated Shiny Text **HOT** | [Animated Shiny Text](https://magicui.design/docs/components/animated-shiny-text) |
+| Aurora Text **HOT** | [Aurora Text](https://magicui.design/docs/components/aurora-text) |
+| Animated Gradient Text | [Animated Gradient Text](https://magicui.design/docs/components/animated-gradient-text) |
+
+
 
 
 
@@ -572,6 +587,9 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Moving Border **HOT** - shacdn | [Moving Border](https://ui.aceternity.com/components/moving-border) |
 | Border Beam **HOT** - shacdn | [Border Beam](https://nyxbui.design/docs/components/border-beam) |
 | Shine Border **HOT** - shacdn | [Shine Border](https://nyxbui.design/docs/components/shine-border) |
+| Border Beam **HOT** | [Border Beam](https://magicui.design/docs/components/border-beam) |
+| Shine Border **HOT** | [Shine Border](https://magicui.design/docs/components/shine-border) |
+
 
 
 </details>
@@ -641,6 +659,10 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Resource | Link |
 |---|---|
 | Animated Beam | [Animated Beam](https://nyxbui.design/docs/components/animated-beam) |
+| Animated Beam #2 | [Animated Beam #2](https://magicui.design/docs/components/animated-beam) |
+
+
+
 
 
 </details>
@@ -710,6 +732,10 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Shiny Background **HOT** | [Shiny Background](https://ui.indie-starter.dev/docs/eye-catching-buttons#variant-2---shiny-background) |
 | Animated Border Gradient **HOT** | [Animated Border Gradient](https://ui.indie-starter.dev/docs/eye-catching-buttons#variant-4---animated-border-gradient) |
 | Animated Text Gradient **HOT** | [Animated Text Gradient](https://ui.indie-starter.dev/docs/eye-catching-buttons#variant-5---animated-text-gradient) |
+| Shimmer Button **HOT** | [Shimmer Button](https://magicui.design/docs/components/shimmer-button) |
+| Shiny Button **HOT** | [Shiny Button](https://magicui.design/docs/components/shiny-button) |
+| Pulsating Button | [Pulsating Button](https://magicui.design/docs/components/pulsating-button) |
+| Ripple Button **HOT** | [Ripple Button](https://magicui.design/docs/components/ripple-button) |
 
 
 </details>
@@ -1012,6 +1038,8 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Background Gradient - shacdn | [Background Gradient(https://ui.aceternity.com/components/background-gradient) |
 | Hover Effect - shacdn | [Hover Effect](https://ui.aceternity.com/components/card-hover-effect) |
 | Magic Card **HOT** - shacdn | [Magic Card](https://nyxbui.design/docs/components/magic-card) |
+| Magic Card #2 **HOT** - shacdn | [Magic Card #2](https://magicui.design/docs/components/magic-card) |
+
 
 
 
@@ -1332,6 +1360,11 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Dot Pattern **HOT** - shacdn | [Dot Pattern](https://nyxbui.design/docs/components/dot-pattern) |
 | ibelick/background-snippet **HOT** - shacdn | [ibelick/background-snippet](https://bg.ibelick.com/) |
 | Background Grid Beam **HOT** - shacdn | [Background Grid Beam](https://ui.lukacho.com/components/background-grid-beam) |
+| Particles **HOT** | [Particles](https://magicui.design/docs/components/particles) |
+| Ripple **HOT** | [Ripple](https://magicui.design/docs/components/ripple) |
+| Dot Pattern **HOT** | [Dot Pattern](https://magicui.design/docs/components/dot-pattern) |
+
+
 
 
 
@@ -1459,6 +1492,25 @@ animation: Gradient 120s ease infinite;
 |---|---|
 | 📜 Code Block - shacdn | [Code Block](https://ui.aceternity.com/components/code-block) |
 
+
+### Code Comparison  
+
+| Resource | Link |
+|---|---|
+| Code Comparison | [Code Comparison](https://magicui.design/docs/components/code-comparison) |
+
+### Script Copy Button  
+
+| Resource | Link |
+|---|---|
+| Script Copy Button **HOT** | [Script Copy Button](https://magicui.design/docs/components/script-copy-btn) |
+
+
+
+
+
+
+
 </details>
 
 
@@ -1489,6 +1541,25 @@ animation: Gradient 120s ease infinite;
 
 
 
+
+
+
+
+
+<br><br>
+
+
+## 🖼️ Mocks
+
+<details><summary>📱 Devices</summary>
+
+| Resource | Link |
+|---|---|
+| Safari | [Safari](https://magicui.design/docs/components/safari) |
+| iPhone 15 Pro | [iPhone 15 Pro](https://magicui.design/docs/components/iphone-15-pro) |
+| Android | [Android](https://magicui.design/docs/components/android) |
+  
+</details>
 
 
 
