@@ -688,6 +688,27 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 </details>
 
+
+
+
+
+
+</details>
+
+<details><summary>Search</summary>
+
+| Resource | Link |
+|---|---|
+| Placeholders And Vanish Input **HOT** - shacdn | [Placeholders And Vanish Input](https://ui.aceternity.com/components/placeholders-and-vanish-input) |
+
+</details>
+
+
+
+
+
+
+
 <details><summary>☰ Menu Bar</summary>
 
 <details><summary>🍔 Hamburger Menu Animation</summary>
@@ -707,6 +728,8 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Mobile Menubar 3 | [Mobile Menubar 3](https://codepen.io/cateelderflower/pen/jwVPGd) |
 
 </details>
+
+
 
 <details><summary>💻 Menu Bar Desktop</summary>
 
@@ -736,6 +759,23 @@ A curated list of code snippets, UI elements, and design resources to help you w
 </details>
 
 </details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 ## 🎛️ UI Components
@@ -1182,13 +1222,20 @@ animation: Gradient 120s ease infinite;
 
 </details>
 
+
+
+
 <details><summary>✍️ Sign-up</summary>
 
 | Resource | Link |
 |---|---|
-| Sign-up Button | [Sign-up Button](https://codepen.io/vineethtrv/pen/ZBpebQ) |
+| Signup Form - shacdn | [Signup Form](https://ui.aceternity.com/components/signup-form) |
 
 </details>
+
+
+
+
 
 <details><summary>🔄 Sign-in & Sign-up (Combined)</summary>
 
