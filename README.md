@@ -653,6 +653,21 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 
 
+<details><summary>🎬 Animated Lists</summary>
+
+| Resource | Link |
+|---|---|
+| Animated List | [Animated List](https://magicui.design/docs/components/animated-list) |
+
+
+</details>
+
+
+
+
+
+
+
 
 
 
