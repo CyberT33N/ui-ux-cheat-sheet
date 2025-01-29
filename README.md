@@ -545,8 +545,28 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 </details>
 
+
+
+
+
+
+
+
+
+
+
 ---
 ## 🔘 Buttons & Input Elements
+
+<details><summary>⌨️ Input Fields</summary>
+|---|---|
+| Base Inputs | [Base Inputs](https://www.edilozi.pro/docs/components/base-inputs) |
+
+  
+</details>
+
+
+
 
 <details><summary>🔘 General Buttons</summary>
 
@@ -567,6 +587,14 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 
 </details>
+
+
+
+
+
+
+
+
 
 <details><summary>🌗 Dark/white Mode Button</summary>
 
