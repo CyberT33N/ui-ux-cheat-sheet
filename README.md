@@ -1262,6 +1262,7 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Hero Highlight - shacdn | [Hero Highlight](https://ui.aceternity.com/components/hero-highlight) |
 | Dot Pattern **HOT** - shacdn | [Dot Pattern](https://nyxbui.design/docs/components/dot-pattern) |
 | ibelick/background-snippet **HOT** - shacdn | [ibelick/background-snippet](https://bg.ibelick.com/) |
+| Background Grid Beam **HOT** - shacdn | [Background Grid Beam](https://ui.lukacho.com/components/background-grid-beam) |
 
 
 
