@@ -698,6 +698,20 @@ A curated list of code snippets, UI elements, and design resources to help you w
 ---
 ## 🔘 Buttons & Input Elements
 
+
+<details><summary>⌨️ Select</summary>
+
+# Multi Select
+  
+| Resource | Link |
+|---|---|
+| Multi Select **HOT** | [Multi Select](https://github.com/sersavan/shadcn-multi-select-component) |
+
+  
+</details>
+
+
+
 <details><summary>⌨️ Input Fields</summary>
   
 | Resource | Link |
