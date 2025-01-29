@@ -1107,7 +1107,31 @@ animation: Gradient 120s ease infinite;
 
 
 
+
+
 <br><br>
+
+
+## File Handling
+
+<details><summary>File Upload</summary>
+
+| Resource | Link |
+|---|---|
+| File Upload | [File Upload](https://ui.aceternity.com/components/file-upload) |
+
+  
+</details>
+
+
+
+
+
+
+
+
+
+
 <br><br>
 
 
