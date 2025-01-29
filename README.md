@@ -997,6 +997,20 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 </details>
 
+
+<details><summary>📂 Hierarchical Views</summary>
+
+| Resource | Link |
+|---|---|
+| Tree View | [Tree View](https://shadcn-extension.vercel.app/docs/tree-view) |
+
+</details>
+
+
+
+
+
+
 <details><summary>📃 One Page Design</summary>
 
 | Resource | Link |
@@ -1223,6 +1237,10 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Fullscreen 1 | [Fullscreen 1](https://codepen.io/Alca/pen/VByeJd) |
 | Fullscreen vertical image distortion | [Fullscreen vertical image distortion](https://codepen.io/ashthornton/details/KRQbMO) |
 | Fullscreen 2 | [Fullscreen 2](https://codepen.io/lmgonzalves/pen/djEgmv) |
+| Carousel - shacdn **HOT** | [Carousel](https://shadcn-extension.vercel.app/docs/carousel) |
+
+
+
 
 </details>
 
