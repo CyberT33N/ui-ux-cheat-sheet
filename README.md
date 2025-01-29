@@ -370,6 +370,10 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 </details>
 
+
+
+
+
 <details><summary>🖱️ Mouse Cursor</summary>
 
 | Resource | Link |
@@ -378,8 +382,19 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | All available cursors | [All available cursors](https://codepen.io/chriscoyier/pen/uCwfB) |
 | Animation following cursor | [Animation following cursor](https://codepen.io/tamm/pen/LIFam) |
 | Sticky Cursor **HOT** | [Sticky Cursor **HOT**](https://codepen.io/dev_loop/pen/abxJMxL) |
+| Canvas Cursor **HOT** | [Canvas Cursor](https://www.edilozi.pro/docs/components/canvas-cursor) |
+| Fluid Cursor **HOT** | [Fluid Cursor](https://www.edilozi.pro/docs/components/fluid-cursor) |
+| Ink Cursor **HOT** | [Ink Cursor](https://www.edilozi.pro/docs/components/ink-cursor) |
+
+
 
 </details>
+
+
+
+
+
+
 <details><summary>🖱️ Mouse Cursor SVG Collection</summary>
 
 | Resource | Link |
