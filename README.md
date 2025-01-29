@@ -563,6 +563,7 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Pixel Canvas **HOT** | [Pixel Canvas **HOT**](https://ryanmulligan.dev/blog/pixel-canvas/) |
 | Github Repo | [Github Repo](https://github.com/hexagoncircle/pixel-canvas) |
 | Tailwind CSS buttons - shacdn | [Tailwind CSS buttons](https://ui.aceternity.com/components/tailwindcss-buttons) |
+| Buttons **HOT** - shacdn | [Buttons](https://www.edilozi.pro/docs/components/buttons) |
 
 
 </details>
