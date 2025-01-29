@@ -665,6 +665,15 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 </details>
 
+
+
+
+
+
+
+
+
+
 ---
 ## 🧭 Navigation & UI
 
@@ -675,6 +684,9 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Chat UI 1 | [Chat UI 1](https://codepen.io/Momciloo/pen/bEdbxY) |
 
 </details>
+
+
+
 
 <details><summary>🔢 Pagination</summary>
 
@@ -692,8 +704,6 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 
 
-
-</details>
 
 <details><summary>Search</summary>
 
