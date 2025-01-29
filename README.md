@@ -1137,11 +1137,12 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Planet bg v2 | [Planet bg v2](https://codepen.io/MoodyBoles/pen/KVodmp) |
 | Three.js mutating field | [Three.js mutating field](https://codepen.io/Samsy/pen/emWppX) |
 | POV moving hills ride | [POV moving hills ride](https://codepen.io/ykob/pen/aBrjaR) |
-| Infinite Falling Illusion | WebGL Shader **HOT** | [Infinite Falling Illusion | WebGL Shader **HOT**](https://codepen.io/pjkarlik/pen/mybEwjG) |
+| Infinite Falling Illusion | WebGL Shader **HOT** | [Infinite Falling Illusion](https://codepen.io/pjkarlik/pen/mybEwjG) |
 | Sparkles - shacdn | [Sparkles](https://ui.aceternity.com/components/sparkles) |
 | Aurora Background **HOT** - shacdn | [Aurora Background](https://ui.aceternity.com/components/aurora-background) |
 | Hero Highlight - shacdn | [Hero Highlight](https://ui.aceternity.com/components/hero-highlight) |
 | Dot Pattern **HOT** - shacdn | [Dot Pattern](https://nyxbui.design/docs/components/dot-pattern) |
+| ibelick/background-snippet **HOT** - shacdn | [ibelick/background-snippet](https://bg.ibelick.com/) |
 
 
 
