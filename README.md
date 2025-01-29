@@ -613,6 +613,7 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Github Repo | [Github Repo](https://github.com/hexagoncircle/pixel-canvas) |
 | Tailwind CSS buttons - shacdn | [Tailwind CSS buttons](https://ui.aceternity.com/components/tailwindcss-buttons) |
 | Buttons **HOT** - shacdn | [Buttons](https://www.edilozi.pro/docs/components/buttons) |
+| Shimmer Button **HOT** - shacdn | [Shimmer Button](https://nyxbui.design/docs/components/shimmer-button) |
 
 
 </details>
@@ -1069,6 +1070,19 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 </details>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 ## 🔮 3D & Background
 
@@ -1086,6 +1100,14 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 
 </details>
+
+
+
+
+
+
+
+
 
 <details><summary>🌄 Backgrounds</summary>
 
@@ -1119,11 +1141,19 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Sparkles - shacdn | [Sparkles](https://ui.aceternity.com/components/sparkles) |
 | Aurora Background **HOT** - shacdn | [Aurora Background](https://ui.aceternity.com/components/aurora-background) |
 | Hero Highlight - shacdn | [Hero Highlight](https://ui.aceternity.com/components/hero-highlight) |
-
+| Dot Pattern **HOT** - shacdn | [Dot Pattern](https://nyxbui.design/docs/components/dot-pattern) |
 
 
 
 </details>
+
+
+
+
+
+
+
+
 
 <details><summary>🌐 WebGL Backgrounds</summary>
 
