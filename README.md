@@ -1620,6 +1620,8 @@ animation: Gradient 120s ease infinite;
 
 
 
+
+
 <details><summary>🔒 Update Password</summary>
 
 | Resource | Link |
@@ -1627,6 +1629,20 @@ animation: Gradient 120s ease infinite;
 | Update Password | [Update Password](https://gist.github.com/mjbalcueva/b21f39a8787e558d4c536bf68e267398) |
 
 </details>
+
+
+
+
+
+<details><summary>📱 Phone Input</summary>
+
+| Resource | Link |
+|---|---|
+| Phone Input | [Phone Input](https://www.armand-salle.fr/post/phone-input-shadcn-ui/) |
+
+</details>
+
+
 
 
 
