@@ -230,6 +230,11 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 </details>
 
+
+
+
+
+
 <details><summary> 🗄️ Sidebar</summary>
 
 | Resource | Link |
@@ -237,6 +242,27 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Sidebar 1 | [Sidebar 1](https://codepen.io/azouaoui-med/pen/wpBadb) |
 
 </details>
+
+
+
+
+
+<details><summary> ➖ Separators & Dividers</summary>
+
+| Resource | Link |
+|---|---|
+| Seperator 1 **HOT** - shacdn | [ Seperator 1](https://ui.indie-starter.dev/docs/separator#separator) |
+
+</details>
+
+
+
+
+
+
+
+
+
 
 
 
@@ -260,6 +286,8 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Typing animation | [Typing animation](https://codepen.io/Zhouzi/pen/JoRazP) |
 | Animated Shiny Text **HOT** - shacdn | [Animated Shiny Text](https://nyxbui.design/docs/components/animated-shiny-text) |
 | Animated Gradient Text - shacdn | [Animated Gradient Text](https://nyxbui.design/docs/components/animated-gradient-text) |
+| Blur in **HOT** - shacdn | [Blur in](https://ui.indie-starter.dev/docs/text-animation#blur-in) |
+
 
 
 
@@ -408,6 +436,30 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 </details>
 
+
+
+
+
+<details><summary>🔄 Loading Skeleton</summary>
+
+
+| Resource | Link |
+|---|---|
+| Skeleton #1 **HOT** | [Skeleton #1](https://ui.indie-starter.dev/docs/skeleton#variant-1) |
+| Skeleton #2 **HOT** | [Skeleton #2](https://ui.indie-starter.dev/docs/skeleton#variant-2) |
+
+
+  
+</details>
+
+
+
+
+
+
+
+
+
 <details><summary>🔄 Loading Indicators (Spinners)</summary>
 
 | Resource | Link |
@@ -423,8 +475,30 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Atom Loader | [Atom Loader](https://codepen.io/dmsanchez86/details/WxRovR) |
 | Google Loader | [Google Loader](https://codepen.io/AmineMohamed/pen/JZxyYm) |
 | Spinner 4 **HOT** | [Spinner 4 **HOT**](https://codepen.io/grssam/details/nZyxQN) |
+| Dots #1 **HOT** - shacdn | [ Dots #1](https://ui.indie-starter.dev/docs/loader-dots#variant-1) |
+| Dots #2 **HOT** - shacdn| [ Dots #2](https://ui.indie-starter.dev/docs/loader-dots#variant-3) |
+
+
+
 
 </details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 ## ✨ Animations & Effects
@@ -616,6 +690,11 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Tailwind CSS buttons - shacdn | [Tailwind CSS buttons](https://ui.aceternity.com/components/tailwindcss-buttons) |
 | Buttons **HOT** - shacdn | [Buttons](https://www.edilozi.pro/docs/components/buttons) |
 | Shimmer Button **HOT** - shacdn | [Shimmer Button](https://nyxbui.design/docs/components/shimmer-button) |
+| Variant 2 Shine **HOT** | [Variant 2 Shine](https://ui.indie-starter.dev/docs/buttons#variant-2-shine) |
+| Shimmer Effect **HOT** | [Shimmer Effect](https://ui.indie-starter.dev/docs/eye-catching-buttons#variant-1---shimmer-effect) |
+| Shiny Background **HOT** | [Shiny Background](https://ui.indie-starter.dev/docs/eye-catching-buttons#variant-2---shiny-background) |
+| Animated Border Gradient **HOT** | [Animated Border Gradient](https://ui.indie-starter.dev/docs/eye-catching-buttons#variant-4---animated-border-gradient) |
+| Animated Text Gradient **HOT** | [Animated Text Gradient](https://ui.indie-starter.dev/docs/eye-catching-buttons#variant-5---animated-text-gradient) |
 
 
 </details>
@@ -924,8 +1003,46 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 
 
+### Simple Cards  
+
+| Resource | Link |
+|---|---|
+| Variant 1 **HOT** | [Variant 1](https://ui.indie-starter.dev/docs/cards-simple#variant-1) |
+| Variant 2 **HOT** | [Variant 2](https://ui.indie-starter.dev/docs/cards-simple#variant-2) |
+| Variant 3 **HOT** | [Variant 3](https://ui.indie-starter.dev/docs/cards-simple#variant-3) |
+| Variant 5 | [Variant 5](https://ui.indie-starter.dev/docs/cards-simple#variant-5) |
+| Variant 6 (3D) **HOT** | [Variant 6 (3D)](https://ui.indie-starter.dev/docs/cards-simple#variant-6-3d) |
+| Variant 7 **HOT** | [Variant 7](https://ui.indie-starter.dev/docs/cards-simple#variant-7) |
+| Pattern - Lines **HOT** | [Variant 4 - Lines](https://ui.indie-starter.dev/docs/cards-with-pattern#variant-4-lines) |
+| Pattern - Grid **HOT** | [Variant 8 - Grid](https://ui.indie-starter.dev/docs/cards-with-pattern#variant-8-grid) |
+
+
+
+### Multi-Layer Cards  
+
+| Resource | Link |
+|---|---|
+| Variant 1 **HOT** | [Variant 1](https://ui.indie-starter.dev/docs/cards-multi-layers#variant-1) |
+| Variant 2 **HOT** | [Variant 2](https://ui.indie-starter.dev/docs/cards-multi-layers#variant-2) |
+| Variant 3 **HOT** | [Variant 3](https://ui.indie-starter.dev/docs/cards-multi-layers#variant-3) |
+
+
 
 </details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <details><summary>🪟 Popup</summary>
 
