@@ -1686,6 +1686,8 @@ animation: Gradient 120s ease infinite;
 | Resource | Link |
 |---|---|
 | Phone Input | [Phone Input](https://www.armand-salle.fr/post/phone-input-shadcn-ui/) |
+| Phone Input #2 | [Phone Input  #2](https://github.com/damianricobelli/shadcn-phone-input) |
+
 
 </details>
 
