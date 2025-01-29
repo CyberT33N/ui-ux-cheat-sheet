@@ -257,6 +257,7 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Multiple Shadows | [Multiple Shadows](https://codepen.io/tommyho/pen/abejXMb) |
 | Text Hover Effect **HOT** - shacdn | [Text Hover Effect](https://ui.aceternity.com/components/text-hover-effect) |
 | Typewriter Effect **HOT** - shacdn | [Typewriter Effect](https://ui.aceternity.com/components/typewriter-effect) |
+| Typing animation | [Typing animation](https://codepen.io/Zhouzi/pen/JoRazP) |
 
 
 
