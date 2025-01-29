@@ -1110,6 +1110,8 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 
 
+
+
 <details><summary>🖼️ Scroll-Text & Marquee</summary>
 
 | Resource | Link |
@@ -1117,6 +1119,25 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Marquee | [Marquee](https://magicui.design/docs/components/marquee) |
 
 </details>
+
+
+
+
+
+<details><summary>🎬 Video</summary>
+
+| Resource | Link |
+|---|---|
+| Hero Video Dialog | [Hero Video Dialog](https://magicui.design/docs/components/hero-video-dialog) |
+
+</details>
+
+
+
+
+
+
+
 
 
 
