@@ -258,6 +258,10 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Text Hover Effect **HOT** - shacdn | [Text Hover Effect](https://ui.aceternity.com/components/text-hover-effect) |
 | Typewriter Effect **HOT** - shacdn | [Typewriter Effect](https://ui.aceternity.com/components/typewriter-effect) |
 | Typing animation | [Typing animation](https://codepen.io/Zhouzi/pen/JoRazP) |
+| Animated Shiny Text **HOT** - shacdn | [Animated Shiny Text](https://nyxbui.design/docs/components/animated-shiny-text) |
+| Animated Gradient Text - shacdn | [Animated Gradient Text](https://nyxbui.design/docs/components/animated-gradient-text) |
+
+
 
 
 
