@@ -459,6 +459,9 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Border Animation 4 **HOT** | [Border Animation 4 **HOT**](https://codepen.io/pineappleSyrup/pen/gNdERJ) |
 | Border Animation 5 **HOT** | [Border Animation 5 **HOT**](https://codepen.io/ZachSaucier/pen/nMRbQN) |
 | Border Animation 6 **HOT** | [Border Animation 6 **HOT**](https://codepen.io/Huhtamaki/pen/GPzwPY) |
+| Hover Border Gradient **HOT** - shacdn | [Hover Border Gradient](https://ui.aceternity.com/components/hover-border-gradient) |
+| Moving Border **HOT** - shacdn | [Moving Border](https://ui.aceternity.com/components/moving-border) |
+
 
 </details>
 
