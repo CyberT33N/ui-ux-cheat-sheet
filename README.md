@@ -552,13 +552,20 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 </details>
 
-<details><summary>⌨️ Typing Animation</summary>
+
+
+
+<details><summary>💫 Light & Beam Effects</summary>
 
 | Resource | Link |
 |---|---|
-| Typing animation | [Typing animation](https://codepen.io/Zhouzi/pen/JoRazP) |
+| Animated Beam | [Animated Beam](https://nyxbui.design/docs/components/animated-beam) |
+
 
 </details>
+
+
+
 
 
 
