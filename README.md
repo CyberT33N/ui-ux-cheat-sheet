@@ -1153,6 +1153,20 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 
 
+<details><summary>🛒 Pricing & Plans</summary>
+
+| Resource | Link |
+|---|---|
+| Pricing - shacdn | [Pricing](https://github.com/m4nute/pricing-page-shadcn) |
+
+</details>
+
+
+
+
+
+
+
 
 
 <details><summary>🖼️ Scroll-Text & Marquee</summary>
