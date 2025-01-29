@@ -238,8 +238,16 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 </details>
 
+
+
+
+
+
+
 ---
 ## 🕹️ Interactive Elements
+
+
 
 <details><summary>✒️ Text Effects</summary>
 
@@ -247,8 +255,15 @@ A curated list of code snippets, UI elements, and design resources to help you w
 |---|---|
 | Shimmer Effect | [Shimmer Effect](https://codepen.io/redouglas/pen/gobsm) |
 | Multiple Shadows | [Multiple Shadows](https://codepen.io/tommyho/pen/abejXMb) |
+| Text Hover Effect **HOT** - shacdn | [Text Hover Effect](https://ui.aceternity.com/components/text-hover-effect) |
+| Typewriter Effect **HOT** - shacdn | [Typewriter Effect](https://ui.aceternity.com/components/typewriter-effect) |
+
+
 
 </details>
+
+
+
 
 <details><summary>🖼️ Lightbox</summary>
 
