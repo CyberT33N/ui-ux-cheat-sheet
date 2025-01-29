@@ -1603,6 +1603,13 @@ animation: Gradient 120s ease infinite;
 
 </details>
 
+
+
+
+
+
+
+
 <details><summary>🔒 Create Password</summary>
 
 | Resource | Link |
@@ -1610,6 +1617,25 @@ animation: Gradient 120s ease infinite;
 | Create Password | [Create Password](https://codepen.io/davidkpiano/pen/WKvPBP) |
 
 </details>
+
+
+
+<details><summary>🔒 Update Password</summary>
+
+| Resource | Link |
+|---|---|
+| Update Password | [Update Password](https://gist.github.com/mjbalcueva/b21f39a8787e558d4c536bf68e267398) |
+
+</details>
+
+
+
+
+
+
+
+
+
 
 
 
