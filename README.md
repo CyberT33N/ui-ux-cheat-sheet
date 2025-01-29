@@ -492,6 +492,8 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Border Animation 6 **HOT** | [Border Animation 6 **HOT**](https://codepen.io/Huhtamaki/pen/GPzwPY) |
 | Hover Border Gradient **HOT** - shacdn | [Hover Border Gradient](https://ui.aceternity.com/components/hover-border-gradient) |
 | Moving Border **HOT** - shacdn | [Moving Border](https://ui.aceternity.com/components/moving-border) |
+| Border Beam **HOT** - shacdn | [Border Beam](https://nyxbui.design/docs/components/border-beam) |
+| Shine Border **HOT** - shacdn | [Shine Border](https://nyxbui.design/docs/components/shine-border) |
 
 
 </details>
@@ -876,6 +878,17 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 </details>
 
+
+
+
+
+
+
+
+
+
+
+
 <details><summary>🎴 Card Elements</summary>
 
 | Resource | Link |
@@ -897,6 +910,8 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | 3D Animated Pin **HOT** - shacdn | [3D Animated Pin **HOT**](https://ui.aceternity.com/components/3d-pin) |
 | Background Gradient - shacdn | [Background Gradient(https://ui.aceternity.com/components/background-gradient) |
 | Hover Effect - shacdn | [Hover Effect](https://ui.aceternity.com/components/card-hover-effect) |
+| Magic Card **HOT** - shacdn | [Magic Card](https://nyxbui.design/docs/components/magic-card) |
+
 
 
 
