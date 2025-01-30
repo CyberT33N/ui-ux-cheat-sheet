@@ -228,6 +228,20 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 </details>
 
+
+
+
+<details><summary>📊 Zoomable Chart</summary>
+
+| Resource | Link |
+|---|---|
+| Zoomable Chart **HOT** | [Zoomable Chart](https://github.com/shelwinsunga/zoom-chart-demo) |
+
+</details>
+
+
+
+
 <details><summary>📊 Area Chart</summary>
 
 | Resource | Link |
@@ -235,6 +249,10 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Area Chart **HOT** | [Area Chart](https://tremor.so/docs/visualizations/area-chart) |
 
 </details>
+
+
+
+
 
 <details><summary>📊 Bar Chart</summary>
 
