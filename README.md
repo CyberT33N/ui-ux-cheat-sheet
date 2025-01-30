@@ -1132,6 +1132,24 @@ A curated list of code snippets, UI elements, and design resources to help you w
 ---
 ## 🎛️ UI Components
 
+
+
+
+<details><summary>📊 Product Tour</summary>
+
+| Resource | Link |
+|---|---|
+| Onborda **HOT** | [Onborda](https://www.onborda.dev/) |
+
+
+</details>
+
+
+
+
+
+
+
 <details><summary>📊 Percentage Display</summary>
 
 | Resource | Link |
@@ -1140,6 +1158,14 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Multiple Charts | [Multiple Charts](https://codepen.io/FilipDanic/pen/xbgbaQ) |
 
 </details>
+
+
+
+
+
+
+
+
 
 
 <details><summary>📂 Hierarchical Views</summary>
