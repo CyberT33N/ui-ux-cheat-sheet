@@ -1325,6 +1325,14 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 
 
+<details><summary>🖼️ Dropdown Menu</summary>
+
+| Resource | Link |
+|---|---|
+| Dropdown menu - shacdn **HOT** | [Dropdown menu](https://tremor.so/docs/inputs/dropdown-menu) |
+
+</details>
+
 
 
 
