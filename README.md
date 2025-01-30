@@ -207,6 +207,45 @@ A curated list of code snippets, UI elements, and design resources to help you w
 </details>
 
 
+
+
+
+
+
+
+
+
+
+
+---
+## 📊 Data Visualization
+
+<details><summary>🖼️ Stocks</summary>
+
+| Resource | Link |
+|---|---|
+| Stock **HOT** | [Stock](https://github.com/aryanvichare/stocks) |
+
+  
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 ## 🧱 Layout Elements
 
