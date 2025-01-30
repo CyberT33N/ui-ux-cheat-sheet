@@ -1198,6 +1198,8 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Resource | Link |
 |---|---|
 | Pricing - shacdn | [Pricing](https://github.com/m4nute/pricing-page-shadcn) |
+| Pricing #2 - shacdn | [Pricing #2](https://shadcn-ui-blocks.vercel.app/blocks/pricing-sections) |
+
 
 </details>
 
