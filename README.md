@@ -402,13 +402,24 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 </details>
 
+
+
+
+
+
 <details><summary>📊 Tables</summary>
 
 | Resource | Link |
 |---|---|
 | Table 1 | [Table 1](https://codepen.io/heypablete/pen/qdIsm) |
+| Table 2 **HOT** - shacdn | [Table 1](https://github.com/sadmann7/shadcn-table) |
 
 </details>
+
+
+
+
+
 
 <details><summary>🔎 JSON Viewer</summary>
 
