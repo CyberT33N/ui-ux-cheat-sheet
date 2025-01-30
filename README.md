@@ -220,13 +220,92 @@ A curated list of code snippets, UI elements, and design resources to help you w
 ---
 ## 📊 Data Visualization
 
-<details><summary>🖼️ Stocks</summary>
+<details><summary>🎨 Stocks</summary>
 
 | Resource | Link |
 |---|---|
 | Stock **HOT** | [Stock](https://github.com/aryanvichare/stocks) |
 
-  
+</details>
+
+<details><summary>📊 Area Chart</summary>
+
+| Resource | Link |
+|---|---|
+| Area Chart **HOT** | [Area Chart](https://tremor.so/docs/visualizations/area-chart) |
+
+</details>
+
+<details><summary>📊 Bar Chart</summary>
+
+| Resource | Link |
+|---|---|
+| Bar Chart | [Bar Chart](https://tremor.so/docs/visualizations/bar-chart) |
+
+</details>
+
+<details><summary>📊 Combo Chart</summary>
+
+| Resource | Link |
+|---|---|
+| Combo Chart **HOT** | [Combo Chart](https://tremor.so/docs/visualizations/combo-chart) |
+
+</details>
+
+<details><summary>📊 Bar List</summary>
+
+| Resource | Link |
+|---|---|
+| Bar List | [Bar List](https://tremor.so/docs/visualizations/barlist) |
+
+</details>
+
+<details><summary>📊 Category Bar</summary>
+
+| Resource | Link |
+|---|---|
+| Category Bar | [Category Bar](https://tremor.so/docs/visualizations/category-bar) |
+
+</details>
+
+<details><summary>📊 Donut Chart</summary>
+
+| Resource | Link |
+|---|---|
+| Donut Chart | [Donut Chart](https://tremor.so/docs/visualizations/donut-chart) |
+
+</details>
+
+<details><summary>📊 Line Chart</summary>
+
+| Resource | Link |
+|---|---|
+| Line Chart | [Line Chart](https://tremor.so/docs/visualizations/line-chart) |
+
+</details>
+
+<details><summary>📊 Progress Bar</summary>
+
+| Resource | Link |
+|---|---|
+| Progress Bar | [Progress Bar](https://tremor.so/docs/visualizations/progress-bar) |
+
+</details>
+
+<details><summary>📊 Progress Circle</summary>
+
+| Resource | Link |
+|---|---|
+| Progress Circle | [Progress Circle](https://tremor.so/docs/visualizations/progress-circle) |
+
+</details>
+
+<details><summary>📊 Spark Chart</summary>
+
+| Resource | Link |
+|---|---|
+| Spark Chart | [Spark Chart](https://tremor.so/docs/visualizations/spark-chart) |
+
 </details>
 
 
