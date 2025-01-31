@@ -1721,6 +1721,9 @@ animation: Gradient 120s ease infinite;
 | 📚 **Resource** | 🔗 **Link** |
 |---|---|
 | 📜 Code Block - shacdn | [Code Block](https://ui.aceternity.com/components/code-block) |
+| ray - **HOT** | [ray](https://ray.so/) |
+
+
 
 
 ### Code Comparison  
