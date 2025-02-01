@@ -1112,6 +1112,20 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 
 
+<details><summary>▶ Generate Button</summary>
+
+| Resource | Link |
+|---|---|
+| Generate Button **HOT** | [Generate Button](https://uiverse.io/MuhammadHasann/mean-bird-62) |
+
+</details>
+
+
+
+
+
+
+
 
 <details><summary>☑️ Checkbox</summary>
 
