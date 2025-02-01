@@ -679,7 +679,9 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Dots #1 **HOT** - shacdn | [ Dots #1](https://ui.indie-starter.dev/docs/loader-dots#variant-1) |
 | Dots #2 **HOT** - shacdn| [ Dots #2](https://ui.indie-starter.dev/docs/loader-dots#variant-3) |
 | Qubes **HOT** | [ Qubes](https://uiverse.io/Nawsome/cold-liger-90) |
-| Qubes 2 **HOT** | [ Qubes #2](https://uiverse.io/adamgiebl/curly-lizard-40) |
+| Qubes 2 **HOT** | [ Qubes #2](https://uiverse.io/alexruix/white-cat-50) |
+| Music Waves **HOT** | [Music Waves #2](https://uiverse.io/Nadabasuony/cowardly-lionfish-57) |
+| Atomic **HOT** | [Music Waves #2](https://uiverse.io/Nawsome/purple-mule-73) |
 
 
 
@@ -971,7 +973,7 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Pulsating Button | [Pulsating Button](https://magicui.design/docs/components/pulsating-button) |
 | Ripple Button **HOT** | [Ripple Button](https://magicui.design/docs/components/ripple-button) |
 | White Hover **HOT** | [White Hover](https://uiverse.io/cssbuttons-io/friendly-dragon-76) |
-| Shine Button **HOT** | [Shine Button](https://uiverse.io/adamgiebl/curly-lizard-40) |
+| Shine Button **HOT** | [Shine Button](https://uiverse.io/Allyhere/strong-pug-22) |
 
 
 </details>
@@ -1192,7 +1194,6 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Resource | Link |
 |---|---|
 | Toggle 1 **HOT** | [Toggle 1](https://uiverse.io/RiccardoRapelli/jolly-chicken-91) |
-| Toggle 2 **HOT** | [Toggle 2](https://uiverse.io/adamgiebl/curly-lizard-40) |
 
 
 </details>
@@ -1244,6 +1245,8 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Resource | Link |
 |---|---|
 | Placeholders And Vanish Input **HOT** - shacdn | [Placeholders And Vanish Input](https://ui.aceternity.com/components/placeholders-and-vanish-input) |
+| Search #1 **HOT** | [Search #1](https://uiverse.io/Lakshay-art/curvy-earwig-22) |
+
 
 </details>
 
