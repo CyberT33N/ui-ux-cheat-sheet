@@ -969,6 +969,7 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Shiny Button **HOT** | [Shiny Button](https://magicui.design/docs/components/shiny-button) |
 | Pulsating Button | [Pulsating Button](https://magicui.design/docs/components/pulsating-button) |
 | Ripple Button **HOT** | [Ripple Button](https://magicui.design/docs/components/ripple-button) |
+| White Hover **HOT** | [White Hover](https://uiverse.io/cssbuttons-io/friendly-dragon-76) |
 
 
 </details>
@@ -1156,6 +1157,8 @@ A curated list of code snippets, UI elements, and design resources to help you w
 |---|---|
 | Checkbox 1 | [Checkbox 1](https://codepen.io/alexjoffroy/pen/ORXOmR) |
 | Checkbox 2 - **HOT** | [Checkbox 2](https://uiverse.io/Praashoo7/angry-starfish-78) |
+| Checkbox 3 - **HOT** | [Checkbox 3](https://uiverse.io/00Kubi/hot-dragonfly-56) |
+| Checkbox 4 - **HOT** | [Checkbox 4](https://uiverse.io/PriyanshuGupta28/tough-puma-94) |
 
 
 </details>
@@ -1169,11 +1172,23 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Resource | Link |
 |---|---|
 | Toggle 1 **HOT** | [Toggle 1](https://uiverse.io/gharsh11032000/sour-vampirebat-66) |
+| Toggle 2 **HOT** | [Toggle 2](https://uiverse.io/gharsh11032000/sour-vampirebat-66) |
+| Toggle 3 **HOT** | [Toggle 3](https://uiverse.io/AbanoubMagdy1/fluffy-octopus-90) |
 
 
 </details>
 
 
+
+
+
+<details><summary>☑️ Dark/Light Mode Toggle</summary>
+
+| Resource | Link |
+|---|---|
+| Toggle 1 **HOT** | [Toggle 1](https://uiverse.io/RiccardoRapelli/jolly-chicken-91) |
+
+</details>
 
 
 
