@@ -1032,6 +1032,11 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 </details>
 
+
+
+
+
+
 <details><summary>🚚 Place Order Button</summary>
 
 | Resource | Link |
@@ -1040,6 +1045,26 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Animation with truck 2 | [Animation with truck 2](https://codepen.io/aaroniker/pen/oNgPOwo) |
 
 </details>
+
+
+
+
+
+
+
+<details><summary>▶ Play Button</summary>
+
+| Resource | Link |
+|---|---|
+| Play Button **HOT** | [Play Button](https://uiverse.io/MuhammadHasann/popular-seahorse-73) |
+
+</details>
+
+
+
+
+
+
 
 <details><summary>☑️ Checkbox</summary>
 
