@@ -1071,6 +1071,8 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Resource | Link |
 |---|---|
 | Checkbox 1 | [Checkbox 1](https://codepen.io/alexjoffroy/pen/ORXOmR) |
+| Checkbox 2 - **HOT** | [Checkbox 2](https://uiverse.io/Praashoo7/angry-starfish-78) |
+
 
 </details>
 
