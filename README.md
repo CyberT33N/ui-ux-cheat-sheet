@@ -678,6 +678,7 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Spinner 4 **HOT** | [Spinner 4 **HOT**](https://codepen.io/grssam/details/nZyxQN) |
 | Dots #1 **HOT** - shacdn | [ Dots #1](https://ui.indie-starter.dev/docs/loader-dots#variant-1) |
 | Dots #2 **HOT** - shacdn| [ Dots #2](https://ui.indie-starter.dev/docs/loader-dots#variant-3) |
+| Qubes **HOT** | [ Qubes #2](https://uiverse.io/Nawsome/cold-liger-90) |
 
 
 
@@ -1158,6 +1159,23 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 
 </details>
+
+
+
+
+
+<details><summary>☑️ Switch / Toggle</summary>
+
+| Resource | Link |
+|---|---|
+| Toggle 1 **HOT** | [Toggle 1](https://uiverse.io/gharsh11032000/sour-vampirebat-66) |
+
+
+</details>
+
+
+
+
 
 
 
