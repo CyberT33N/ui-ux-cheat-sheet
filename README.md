@@ -214,6 +214,30 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 
 
+---
+## 📊 🎨 Design & Styling
+
+<details><summary>🎨 Neumorphism</summary>
+
+| Resource | Link |
+|---|---|
+| Neumorphism Generator **HOT** | [Stock](https://neumorphism.io) |
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
