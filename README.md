@@ -1015,6 +1015,10 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 </details>
 
+
+
+
+
 <details><summary>✅ Activate Button</summary>
 
 | Resource | Link |
@@ -1022,6 +1026,25 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Activate Button | [Activate Button](https://codepen.io/aaroniker/pen/ZVOrOZ) |
 
 </details>
+
+
+
+
+<details><summary>✅ Subscribe Button</summary>
+
+| Resource | Link |
+|---|---|
+| Subscribe Button **HOT** | [Subscribe Button](https://uiverse.io/marcelodolza/stupid-vampirebat-24) |
+
+</details>
+
+
+
+
+
+
+
+
 
 <details><summary>⬆️ Upload Button</summary>
 
