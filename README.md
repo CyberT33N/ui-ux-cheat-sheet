@@ -682,6 +682,7 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Qubes 2 **HOT** | [ Qubes #2](https://uiverse.io/alexruix/white-cat-50) |
 | Music Waves **HOT** | [Music Waves #2](https://uiverse.io/Nadabasuony/cowardly-lionfish-57) |
 | Atomic **HOT** | [Music Waves #2](https://uiverse.io/Nawsome/purple-mule-73) |
+| Domino **HOT** | [Domino](https://uiverse.io/vikramsinghnegi/swift-penguin-59) |
 
 
 
@@ -780,6 +781,9 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Border Beam **HOT** | [Border Beam](https://magicui.design/docs/components/border-beam) |
 | Shine Border **HOT** | [Shine Border](https://magicui.design/docs/components/shine-border) |
 | Border Beam #2 **HOT** | [Border Beam #2](https://uiverse.io/dylanharriscameron/stupid-mole-90) |
+| Border Beam #3 **HOT** | [Border Beam #3](https://uiverse.io/SelfMadeSystem/fluffy-eel-29) |
+| Border Hover #1 **HOT** | [Border Hover #1](https://uiverse.io/themrsami/quick-cat-81) |
+
 
 
 
@@ -974,6 +978,9 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Ripple Button **HOT** | [Ripple Button](https://magicui.design/docs/components/ripple-button) |
 | White Hover **HOT** | [White Hover](https://uiverse.io/cssbuttons-io/friendly-dragon-76) |
 | Shine Button **HOT** | [Shine Button](https://uiverse.io/Allyhere/strong-pug-22) |
+| Hover Button **HOT** | [Hover Button](https://uiverse.io/SelfMadeSystem/weak-mole-88) |
+
+
 
 
 </details>
@@ -1181,6 +1188,9 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Toggle 1 **HOT** | [Toggle 1](https://uiverse.io/gharsh11032000/sour-vampirebat-66) |
 | Toggle 2 **HOT** | [Toggle 2](https://uiverse.io/gharsh11032000/sour-vampirebat-66) |
 | Toggle 3 **HOT** | [Toggle 3](https://uiverse.io/AbanoubMagdy1/fluffy-octopus-90) |
+| Toggle 4 **HOT** | [Toggle 4](https://uiverse.io/G4b413l/giant-panther-83) |
+| Toggle 5 **HOT** | [Toggle 5](https://uiverse.io/aboalsim114/clever-chipmunk-18) |
+
 
 
 </details>
@@ -1725,7 +1735,7 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 
 ---
-## 🔮 3D & Background
+## 🔮 3D 
 
 <details><summary>✨ 3D</summary>
 
@@ -1788,6 +1798,8 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Particles **HOT** | [Particles](https://magicui.design/docs/components/particles) |
 | Ripple **HOT** | [Ripple](https://magicui.design/docs/components/ripple) |
 | Dot Pattern **HOT** | [Dot Pattern](https://magicui.design/docs/components/dot-pattern) |
+| Dot Gradient **HOT** - Generator here https://shenanigans.shoghisimon.ca/collection/css-blur-blob-bg/ | [Dot Gradient](https://uiverse.io/SelfMadeSystem/sweet-dolphin-36) |
+
 
 
 
