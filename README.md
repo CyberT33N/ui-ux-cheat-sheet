@@ -760,6 +760,8 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Shine Border **HOT** - shacdn | [Shine Border](https://nyxbui.design/docs/components/shine-border) |
 | Border Beam **HOT** | [Border Beam](https://magicui.design/docs/components/border-beam) |
 | Shine Border **HOT** | [Shine Border](https://magicui.design/docs/components/shine-border) |
+| Border Beam #2 **HOT** | [Border Beam #2](https://uiverse.io/dylanharriscameron/stupid-mole-90) |
+
 
 
 
