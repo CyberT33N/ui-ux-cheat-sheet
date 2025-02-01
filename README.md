@@ -1347,6 +1347,15 @@ A curated list of code snippets, UI elements, and design resources to help you w
 
 
 
+### Animated Cards  
+
+| Resource | Link |
+|---|---|
+| Variant 1 **HOT** | [Variant 1](https://uiverse.io/Spacious74/moody-owl-18) |
+
+
+
+
 </details>
 
 
