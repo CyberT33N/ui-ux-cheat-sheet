@@ -217,6 +217,21 @@ A curated list of code snippets, UI elements, and design resources to help you w
 ---
 ## 📊 🎨 Design & Styling
 
+
+<details><summary>🎨 All</summary>
+
+| Resource | Link |
+|---|---|
+| uiverse **HOT** | [uiverse](https://uiverse.io) |
+
+</details>
+
+
+
+
+
+
+
 <details><summary>🎨 Neumorphism</summary>
 
 | Resource | Link |
