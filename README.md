@@ -1190,6 +1190,7 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Toggle 3 **HOT** | [Toggle 3](https://uiverse.io/AbanoubMagdy1/fluffy-octopus-90) |
 | Toggle 4 **HOT** | [Toggle 4](https://uiverse.io/G4b413l/giant-panther-83) |
 | Toggle 5 **HOT** | [Toggle 5](https://uiverse.io/aboalsim114/clever-chipmunk-18) |
+| Toggle 6  | [Toggle 6](https://uiverse.io/ICe1BotMaker/quick-goat-3) |
 
 
 
