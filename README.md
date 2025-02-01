@@ -795,8 +795,164 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Border Hover #1 **HOT** | [Border Hover #1](https://uiverse.io/themrsami/quick-cat-81) |
 
 
+Border Beam #3 - raw:
+<details><summary>Click to expand..</summary>
+</details>
+
+html:
+```
+<svg style="position: absolute; width: 0; height: 0;">
+  <filter id="unopaq" y="-100%" height="300%" x="-100%" width="300%">
+    <feColorMatrix
+      values="1 0 0 0 0 
+            0 1 0 0 0 
+            0 0 1 0 0 
+            0 0 0 5 0"
+    ></feColorMatrix>
+  </filter>
+  <filter id="unopaq2" y="-100%" height="300%" x="-100%" width="300%">
+    <feColorMatrix
+      values="1 0 0 0 0 
+            0 1 0 0 0 
+            0 0 1 0 0 
+            0 0 0 10 0"
+    ></feColorMatrix>
+  </filter>
+  <filter id="unopaq3" y="-100%" height="300%" x="-100%" width="300%">
+    <feColorMatrix
+      values="1 0 0 1 0 
+            0 1 0 1 0 
+            0 0 1 1 0 
+            0 0 0 2 0"
+    ></feColorMatrix>
+  </filter>
+</svg>
 
 
+
+<div class="card-container">
+  <div class="spin spin-blur"></div>
+  <div class="spin spin-intense"></div>
+  <div class="backdrop"></div>
+  <div class="card-border">
+    <div class="spin spin-inside"></div>
+  </div>
+  <div class="card">
+    
+
+  </div>
+</div>
+
+```
+
+
+
+css:
+
+```
+.card-container {
+  position: relative;
+  width: 400px;
+  height: 300px;
+  border-radius: 1em;
+  margin: 0 2em;
+}
+
+.card-border {
+  position: absolute;
+  inset: 0;
+  background: #0005;
+  border-radius: inherit;
+}
+
+.card {
+  position: absolute;
+  inset: 0.125em;
+  border-radius: 0.875em;
+  background: #111215;
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  overflow: hidden;
+}
+
+.space {
+  flex-grow: 1;
+}
+
+
+.backdrop {
+  position: absolute;
+  inset: -100%;
+  background: radial-gradient(
+    circle at 50% 50%,
+    #0000 0,
+    #0000 20%,
+    #111111aa 50%
+  );
+  background-size: 3px 3px;
+  z-index: -1;
+}
+
+.spin {
+  position: absolute;
+  inset: 0;
+  z-index: -2;
+  overflow: hidden;
+}
+
+.spin-blur {
+  filter: blur(3em) url(#unopaq);
+}
+
+.spin-intense {
+  inset: -0.125em;
+  filter: blur(0.5em) url(#unopaq2);
+  border-radius: 0.75em;
+}
+
+.spin-inside {
+  inset: -2px;
+  border-radius: inherit;
+  filter: blur(2px) url(#unopaq3);
+  z-index: 0;
+}
+
+.spin::before {
+  content: "";
+  position: absolute;
+  inset: -30%;
+  animation: speen 8s cubic-bezier(0.56, 0.15, 0.28, 0.86) infinite;
+}
+
+.spin-blur::before {
+  background: linear-gradient(-45deg, #f50, #0000 46% 54%, #05f);
+}
+
+.spin-intense::before {
+  background: linear-gradient(-45deg, #f95, #0000 35% 65%, #59f);
+}
+
+.spin-inside::before {
+  background: linear-gradient(-45deg, #fc9, #0000 35% 65%, #9cf);
+}
+
+@keyframes speen {
+  0% {
+    rotate: 10deg;
+  }
+  50% {
+    rotate: 190deg;
+  }
+  to {
+    rotate: 370deg;
+  }
+}
+
+.card input {
+  display: none;
+}
+```
 
 </details>
 
