@@ -485,6 +485,8 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Animated Shiny Text **HOT** | [Animated Shiny Text](https://magicui.design/docs/components/animated-shiny-text) |
 | Aurora Text **HOT** | [Aurora Text](https://magicui.design/docs/components/aurora-text) |
 | Animated Gradient Text | [Animated Gradient Text](https://magicui.design/docs/components/animated-gradient-text) |
+| code driven animation **HOT** | [code driven animation](https://codepen.io/creativeocean/pen/ByBogvj) |
+
 
 
 
