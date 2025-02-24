@@ -1145,7 +1145,7 @@ css:
 | White Hover **HOT** | [White Hover](https://uiverse.io/cssbuttons-io/friendly-dragon-76) |
 | Shine Button **HOT** | [Shine Button](https://uiverse.io/Allyhere/strong-pug-22) |
 | Hover Button **HOT** | [Hover Button](https://uiverse.io/SelfMadeSystem/weak-mole-88) |
-
+| Glass Button **HOT** | [Glass Button](https://codepen.io/Petr-Knoll/pen/QwWLZdx) |
 
 
 
