@@ -631,6 +631,7 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Canvas Cursor **HOT** | [Canvas Cursor](https://www.edilozi.pro/docs/components/canvas-cursor) |
 | Fluid Cursor **HOT** | [Fluid Cursor](https://www.edilozi.pro/docs/components/fluid-cursor) |
 | Ink Cursor **HOT** | [Ink Cursor](https://www.edilozi.pro/docs/components/ink-cursor) |
+| Ribbons **HOT** | [Ribbons](https://www.reactbits.dev/animations/ribbons) |
 
 
 
@@ -1026,6 +1027,7 @@ css:
 | Animation Plugin | [Animation Plugin](https://animate.style/) |
 | Button to Top | [Button to top](https://www.reactbits.dev/animations/animated-content) |
 | Mouse Magnet | [Mouse Magnet](https://www.reactbits.dev/animations/magnet) |
+| Metallic Transition **HOT** | [Metallic Transition](https://www.reactbits.dev/animations/metallic-paint) |
 
 
 
