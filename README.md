@@ -632,6 +632,7 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Fluid Cursor **HOT** | [Fluid Cursor](https://www.edilozi.pro/docs/components/fluid-cursor) |
 | Ink Cursor **HOT** | [Ink Cursor](https://www.edilozi.pro/docs/components/ink-cursor) |
 | Ribbons **HOT** | [Ribbons](https://www.reactbits.dev/animations/ribbons) |
+| Blob Cursor **HOT** | [Blob Cursor](https://www.reactbits.dev/animations/blob-cursor) |
 
 
 
@@ -796,6 +797,7 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Border Beam #2 **HOT** | [Border Beam #2](https://uiverse.io/dylanharriscameron/stupid-mole-90) |
 | Border Beam #3 **HOT** | [Border Beam #3](https://uiverse.io/SelfMadeSystem/fluffy-eel-29) |
 | Border Hover #1 **HOT** | [Border Hover #1](https://uiverse.io/themrsami/quick-cat-81) |
+| Border Star **HOT** | [Border Star](https://www.reactbits.dev/animations/star-border) |
 
 
 Border Beam #3 - raw:
@@ -1940,6 +1942,22 @@ css:
 </details>
 
 
+
+
+
+
+
+
+---
+## 🔮 Backgrounds
+
+<details><summary>🌄 Interactive Backgrounds</summary>
+
+| Resource | Link |
+|---|---|
+| Meta Balls **HOT** | [Meta Balls](https://www.reactbits.dev/animations/meta-balls) |
+
+</details>
 
 
 
