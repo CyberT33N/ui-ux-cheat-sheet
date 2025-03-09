@@ -985,6 +985,9 @@ css:
 | Scroll Float **HOT** - react | [Scroll float](https://www.reactbits.dev/text-animations/scroll-float) |
 | Scroll Reveal **HOT** - react | [Scroll reveal](https://www.reactbits.dev/text-animations/scroll-reveal) |
 | Rotating Text **HOT** - react | [Rotating text](https://www.reactbits.dev/text-animations/rotating-text) |
+| Glitch Text **HOT** - react | [Glitch text](https://www.reactbits.dev/text-animations/glitch-text) |
+| Scroll Velocity **HOT** - react | [Scroll Velocity](https://www.reactbits.dev/text-animations/scroll-velocity) |
+| Count up **HOT** - react | [Count up](https://www.reactbits.dev/text-animations/count-up) |
 
 
 
