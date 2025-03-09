@@ -1416,6 +1416,22 @@ css:
 ---
 ## 🧭 Navigation & UI
 
+
+
+
+<details><summary>Stepper/summary>
+
+| Resource | Link |
+|---|---|
+| Stepper **HOT** | [Stepper](https://www.reactbits.dev/components/stepper) |
+
+</details>
+
+
+
+
+
+
 <details><summary>💬 Chat UI</summary>
 
 | Resource | Link |
@@ -2005,6 +2021,7 @@ css:
 | Infinite Falling Illusion | WebGL Shader **HOT** | [Infinite Falling Illusion](https://codepen.io/pjkarlik/pen/mybEwjG) |
 | Sparkles - shacdn | [Sparkles](https://ui.aceternity.com/components/sparkles) |
 | Aurora Background **HOT** - shacdn | [Aurora Background](https://ui.aceternity.com/components/aurora-background) |
+| Aurora Background #2 **HOT** - shacdn | [Aurora Background #2](https://www.reactbits.dev/backgrounds/aurora) |
 | Hero Highlight - shacdn | [Hero Highlight](https://ui.aceternity.com/components/hero-highlight) |
 | Dot Pattern **HOT** - shacdn | [Dot Pattern](https://nyxbui.design/docs/components/dot-pattern) |
 | ibelick/background-snippet **HOT** - shacdn | [ibelick/background-snippet](https://bg.ibelick.com/) |
@@ -2013,6 +2030,15 @@ css:
 | Ripple **HOT** | [Ripple](https://magicui.design/docs/components/ripple) |
 | Dot Pattern **HOT** | [Dot Pattern](https://magicui.design/docs/components/dot-pattern) |
 | Dot Gradient **HOT** - Generator here https://shenanigans.shoghisimon.ca/collection/css-blur-blob-bg/ | [Dot Gradient](https://uiverse.io/SelfMadeSystem/sweet-dolphin-36) |
+| Lightning **HOT** | [Lightning](https://www.reactbits.dev/backgrounds/lightning) |
+| Threads **HOT** | [Threads](https://www.reactbits.dev/backgrounds/threads) |
+| Hyperspeed **HOT** | [Hyperspeed](https://www.reactbits.dev/backgrounds/hyperspeed) |
+| iridescence **HOT** | [iridescence](https://www.reactbits.dev/backgrounds/iridescence) |
+| ball pit **HOT** | [ball pit](https://www.reactbits.dev/backgrounds/ballpit) |
+| orb **HOT** | [orb](https://www.reactbits.dev/backgrounds/orb) |
+| liquid chhrome **HOT** | [liquid chrome](https://www.reactbits.dev/backgrounds/liquid-chrome) |
+| particles **HOT** | [particles](https://www.reactbits.dev/backgrounds/particles) |
+| waves **HOT** | [waves](https://www.reactbits.dev/backgrounds/waves) |
 
 
 
