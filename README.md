@@ -1024,6 +1024,10 @@ css:
 | Resource | Link |
 |---|---|
 | Animation Plugin | [Animation Plugin](https://animate.style/) |
+| Button to Top | [Button to top](https://www.reactbits.dev/animations/animated-content) |
+| Mouse Magnet | [Mouse Magnet](https://www.reactbits.dev/animations/magnet) |
+
+
 
 </details>
 
