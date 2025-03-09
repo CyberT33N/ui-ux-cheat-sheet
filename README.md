@@ -420,6 +420,7 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Resource | Link |
 |---|---|
 | Gradient Slider | [Gradient Slider](https://codepen.io/egrucza/pen/LEoOQZ) |
+| Elastic Slider **HOT**| [Elastic Slider](https://www.reactbits.dev/components/elastic-slider) |
 
 </details>
 
