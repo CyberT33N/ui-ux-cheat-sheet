@@ -763,6 +763,8 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Timeline - shacdn | [https://ui.aceternity.com/components/tracing-beam) |
 | Container Scroll Animation **HOT** - shacdn | [https://ui.aceternity.com/components/container-scroll-animation) |
 | Google Gemini Effect - shacdn | [https://ui.aceternity.com/components/google-gemini-effect) |
+| Flying Posters **HOT** | [https://www.reactbits.dev/components/flying-posters) |
+| Infiinity Scroll **HOT** | [https://www.reactbits.dev/components/infinite-scroll) |
 
 
 </details>
@@ -1064,6 +1066,7 @@ css:
 | Resource | Link |
 |---|---|
 | Animated List | [Animated List](https://magicui.design/docs/components/animated-list) |
+| Animated List #2 | [Animated List #2](https://www.reactbits.dev/components/animated-list) |
 
 
 </details>
@@ -1617,6 +1620,10 @@ css:
 | Hover Effect - shacdn | [Hover Effect](https://ui.aceternity.com/components/card-hover-effect) |
 | Magic Card **HOT** - shacdn | [Magic Card](https://nyxbui.design/docs/components/magic-card) |
 | Magic Card #2 **HOT** - shacdn | [Magic Card #2](https://magicui.design/docs/components/magic-card) |
+| 3d mouse follow card **HOT** | [3d mouse follow car](https://www.reactbits.dev/components/tilted-card) |
+| pixel card **HOT** | [pixel card](https://www.reactbits.dev/components/pixel-card) |
+| hover spotlight card **HOT** | [hover spotlight card](https://www.reactbits.dev/components/spotlight-card) |
+
 
 
 
