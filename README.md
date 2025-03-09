@@ -517,6 +517,7 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Animated Gallery | [Animated Gallery](https://codepen.io/designcouch/pen/DEkcf) |
 | Gallery 2 | [Gallery 2](https://codepen.io/svelts/pen/VYxPWW) |
 | Grid Gallery with animation to center | [Grid Gallery with animation to center](https://codepen.io/ademilter/pen/ByLwwV) |
+| rolling gallery | [rolling gallery](https://www.reactbits.dev/components/rolling-gallery) |
 
 </details>
 
