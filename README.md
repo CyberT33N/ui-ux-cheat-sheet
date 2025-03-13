@@ -412,6 +412,8 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Tabs 1 **HOT** | [Tabs 1](https://codepen.io/RGonyeau/pen/Mvrzxx) |
 | Tabs 2 **HOT** | [Tabs 2](https://codepen.io/jdniki/pen/PzZERJ) |
 | Tabs 4 **HOT** | [Tabs 4](https://codepen.io/creativetim/pen/EgVBXa) |
+| Frosted Glass Gooey Gravity Nav **HOT** | [Frosted Glass Gooey Gravity Nav](https://codepen.io/simeydotme/pen/qEBmggz) |
+
 
 </details>
 
