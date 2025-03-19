@@ -769,6 +769,7 @@ A curated list of code snippets, UI elements, and design resources to help you w
 | Google Gemini Effect - shacdn | [https://ui.aceternity.com/components/google-gemini-effect) |
 | Flying Posters **HOT** | [https://www.reactbits.dev/components/flying-posters) |
 | Infiinity Scroll **HOT** | [https://www.reactbits.dev/components/infinite-scroll) |
+| CSS view-timeline shine effect **HOT** | [https://codepen.io/hexagoncircle/pen/yyBePPV) |
 
 
 </details>
