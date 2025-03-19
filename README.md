@@ -1870,6 +1870,7 @@ css:
 |---|---|
 | Gallery 1 | [Gallery 1](https://codepen.io/andata/pen/pEyAGj) |
 | Responsive Vertical Scrolling Parallax Gallery **HOT** | [Responsive Vertical Scrolling Parallax Gallery **HOT**](https://codepen.io/noirsociety/pen/NWJvgZg) |
+| CSS infinite scroll gallery **HOT** | [CSS infinite scroll gallery](https://codepen.io/thebabydino/pen/XJrYqGb) |
 
 </details>
 
