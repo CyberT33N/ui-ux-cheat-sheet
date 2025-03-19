@@ -1682,6 +1682,7 @@ css:
 | Resource | Link |
 |---|---|
 | Variant 1 **HOT** | [Variant 1](https://uiverse.io/Spacious74/moody-owl-18) |
+| CSS @property animated bg card | [CSS @property animated bg card](https://codepen.io/web-dot-dev/pen/poXJoEO) |
 
 
 
