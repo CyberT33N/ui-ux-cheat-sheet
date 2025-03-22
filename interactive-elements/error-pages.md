@@ -14,4 +14,5 @@ Components and resources for creating error pages in web applications.
 | Resource | Link |
 |---|---|
 | Lost Astronaut | [Lost Astronaut](https://codepen.io/eroxburgh/pen/zYYyEPg) |
-| Jungle | [Jungle](https://codepen.io/uiswarup/pen/dyoyLOp) | 
+| Jungle | [Jungle](https://codepen.io/uiswarup/pen/dyoyLOp) |
+| 404 Swing with @property | [404 Swing with @property](https://codepen.io/jh3y/pen/oNRBOGY) | 

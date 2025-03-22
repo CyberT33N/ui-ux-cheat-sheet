@@ -12,6 +12,7 @@ Components and resources for creating switch and toggle UI elements in web appli
 | Toggle 4 **HOT** | [Toggle 4](https://uiverse.io/G4b413l/giant-panther-83) |
 | Toggle 5 **HOT** | [Toggle 5](https://uiverse.io/aboalsim114/clever-chipmunk-18) |
 | Toggle 6 | [Toggle 6](https://uiverse.io/ICe1BotMaker/quick-goat-3) |
+| moon toggle 🌛 **HOT** | [moon toggle](https://codepen.io/jh3y/details/ByBjxrW) |
 
 ## Overview
 

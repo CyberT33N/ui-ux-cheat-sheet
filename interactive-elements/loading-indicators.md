@@ -23,4 +23,6 @@ Components and resources for creating loading indicators and spinners in web app
 | Qubes 2 **HOT** | [Qubes #2](https://uiverse.io/alexruix/white-cat-50) |
 | Music Waves **HOT** | [Music Waves #2](https://uiverse.io/Nadabasuony/cowardly-lionfish-57) |
 | Atomic **HOT** | [Atomic](https://uiverse.io/Nawsome/purple-mule-73) |
-| Domino **HOT** | [Domino](https://uiverse.io/vikramsinghnegi/swift-penguin-59) | 
+| Domino **HOT** | [Domino](https://uiverse.io/vikramsinghnegi/swift-penguin-59) |
+| Masked SVG Loader w/ CSS **HOT** | [Masked SVG Loader w/ CSS](https://codepen.io/jh3y/pen/xxvVoXK) |
+| Masked SVG Loader **HOT** | [Masked SVG Loader](https://codepen.io/jh3y/pen/BabVPVd) | 

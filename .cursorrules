@@ -26,14 +26,7 @@ Wenn der Befehl `@add` vorangestellt wird, **MUSS** folgendes ausgeführt werden
 
 ---
 
-## 2. LLM Einstellungen (Cursor-spezifisch)
-
-- **Modellauswahl:** Nutze ein Cursor-Modell, das auf Textbearbeitung und Strukturverständnis optimiert ist.  
-- **Parameter:** Prüfe und passe ggf. Einstellungen wie Temperatur und Kontextfenster an, um optimale Ergebnisse bei der Markdown-Bearbeitung zu erzielen.
-
----
-
-## 3. Prompt Elemente: Detaillierte Anweisungen für den Merge-Prozess
+## 2. Prompt Elemente: Detaillierte Anweisungen für den Merge-Prozess
 
 ### Schritt-für-Schritt-Anleitung
 
@@ -67,73 +60,7 @@ Wenn der Befehl `@add` vorangestellt wird, **MUSS** folgendes ausgeführt werden
 
 ---
 
-## 4. Allgemeine Tipps für die Promptgestaltung (Meta-Ebene)
-
-- **Iterative Verfeinerung:**  
-  - Erinnere dich daran, dass der Prompt vermutlich mehrfach verfeinert werden muss. Experimentiere und passe ihn bei Bedarf an.
-- **Klarheit und Präzision:**  
-  - Verwende **klare, präzise und unmissverständliche** Anweisungen.  
-  - Nutze starke Schlüsselwörter wie **GENERIERE**, **ERSTELLE**, **IMPLEMENTIERE**.
-- **Testen und Evaluieren:**  
-  - Führe nach dem Merge-Prozess Tests durch, um die Korrektheit und Vollständigkeit zu verifizieren.
-- **Modularität und Wiederverwendbarkeit:**  
-  - Gestalte den Prompt modular, sodass einzelne Abschnitte leicht für andere Aufgaben wiederverwendet oder angepasst werden können.
-
----
-
-## 5. Beispiele für Prompts (als Inspiration)
-
-### Beispiel 1: Merge in bestehende Kategorie
-```markdown
-@add
-**Neuer Tool-Eintrag:**  
-- **Name:** SuperTool  
-- **Beschreibung:** Ein hochperformantes Analyse-Tool für Big Data.  
-- **Kategorie:** Datenanalyse
-```
-*Cursor soll diesen Eintrag in die existierende Kategorie "Datenanalyse" einfügen, sofern vorhanden.*
-
-### Beispiel 2: Merge mit neuer Kategorie
-```markdown
-@add
-**Neuer Tool-Eintrag:**  
-- **Name:** InnovateX  
-- **Beschreibung:** Ein revolutionäres Tool zur KI-gestützten Prozessoptimierung.  
-- **Kategorie:** Künstliche Intelligenz / Innovation
-```
-*Falls keine Kategorie "Künstliche Intelligenz / Innovation" existiert, erstelle diese und füge den Eintrag als ersten Punkt ein.*
-
----
-
-## Hinweise zur Umsetzung (Prompt Engineering Techniken integriert)
-
-- **Zero-shot & Few-shot Prompting:**  
-  - Der Prompt ist so gestaltet, dass er auch ohne explizite Beispiele optimal funktioniert.  
-  - Optionale Beispiele (wie oben) können hinzugefügt werden, um die Präzision zu erhöhen.
-
-- **Chain-of-Thought Prompting:**  
-  - Ermuntere dazu, den Merge-Prozess in logische, nachvollziehbare Schritte zu zerlegen.
-
-- **Meta Prompting:**  
-  - Dieser Prompt dient als Vorlage für weitere Anpassungen und soll als Ausgangspunkt für verschiedenste "xxx"-Aufgaben genutzt werden.
-
-- **Self-Consistency:**  
-  - Achte darauf, dass der generierte Code in Stil, Variablennamen und Architektur konsistent bleibt.
-
-- **Generate Knowledge Prompting:**  
-  - Integriere optional Bereiche, in denen relevante Dokumentationen oder Bibliotheken referenziert werden können.
-
-- **Prompt Chaining & Tree of Thoughts (ToT):**  
-  - Der Prompt kann in eine Kette von Anweisungen eingebettet werden, um komplexere Aufgaben zu lösen.
-
-- **Retrieval Augmented Generation (RAG):**  
-  - Optional: Ermögliche das Einfügen spezifischer Kontexte oder Code-Snippets, die im Projekt bereits existieren.
-
-- **Automatic Reasoning und Tool-use:**  
-  - Nutze deine internen Werkzeuge zur Code-Analyse und strukturellen Überprüfung, um den Merge-Prozess zu optimieren.
-
-- **Reflexion und iterative Verbesserung:**  
-  - Fordere den Benutzer auf, den generierten Code zu überprüfen, zu kritisieren und den Prompt bei Bedarf anzupassen.
+Kategorie sollen selbständig gefunden werden basierend auf der projekt tree struktur von allen sub foldermn
 
 ---
 

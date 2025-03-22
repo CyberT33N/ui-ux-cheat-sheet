@@ -7,6 +7,9 @@ Components and resources for creating scrolling text and marquee effects in web 
 | Resource | Link |
 |---|---|
 | Marquee | [Marquee](https://magicui.design/docs/components/marquee) |
+| Infinite Logo Marquee **HOT** | [Infinite Logo Marquee](https://codepen.io/jh3y/pen/RNwyqpL) |
+| Infinite marquee/carousel no repeated elements 🫶 | [Infinite marquee/carousel no repeated elements](https://codepen.io/jh3y/pen/RwdPvvz) |
+| GSAP infinite loops without DOM shuffle | [GSAP infinite loops without DOM shuffle](https://codepen.io/jh3y/pen/pvzbRzB) |
 
 ## Overview
 

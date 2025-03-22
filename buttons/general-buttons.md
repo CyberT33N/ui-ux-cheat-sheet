@@ -31,4 +31,8 @@ Components for creating general-purpose buttons in web applications.
 | White Hover **HOT** | [White Hover](https://uiverse.io/cssbuttons-io/friendly-dragon-76) |
 | Shine Button **HOT** | [Shine Button](https://uiverse.io/Allyhere/strong-pug-22) |
 | Hover Button **HOT** | [Hover Button](https://uiverse.io/SelfMadeSystem/weak-mole-88) |
-| Glass Button **HOT** | [Glass Button](https://codepen.io/Petr-Knoll/pen/QwWLZdx) | 
+| Glass Button **HOT** | [Glass Button](https://codepen.io/Petr-Knoll/pen/QwWLZdx) |
+| Rainbow button [longer hue + animation-composition] **HOT** | [Rainbow button](https://codepen.io/jh3y/pen/GgKdeZJ) |
+| Sparkle Button ✨ **HOT** | [Sparkle Button](https://codepen.io/jh3y/pen/LYJMPBL) |
+| Glowy Border Shimmer Button (w/ Container Queries) | [Glowy Border Shimmer Button](https://codepen.io/jh3y/pen/vYbyKeL) |
+| CSS Galaxy Button 🚀 | [CSS Galaxy Button](https://codepen.io/jh3y/pen/eYPYKep) | 
