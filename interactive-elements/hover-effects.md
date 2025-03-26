@@ -14,4 +14,5 @@ Components and resources for creating hover effects in web applications.
 | Proximity Glow Cards **HOT** | [Proximity Glow Cards](https://codepen.io/jh3y/pen/QWYPaax) |
 | Anchor Positioning :hover Cards | [Anchor Positioning :hover Cards](https://codepen.io/jh3y/pen/MWLyGxo) |
 | React Glow Cards – Minimal **HOT** | [React Glow Cards – Minimal](https://codepen.io/jh3y/pen/WNmQXyE) |
-| Hover Plugin | [Hover Plugin](https://github.com/IanLunn/Hover) | 
+| Hover Plugin | [Hover Plugin](https://github.com/IanLunn/Hover) |
+| Atropos - 3D Parallax Hover Effects | [Atropos](https://atroposjs.com/) | 
