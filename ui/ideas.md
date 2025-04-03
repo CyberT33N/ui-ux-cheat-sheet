@@ -8,6 +8,7 @@ A collection of websites and resources for UI/UX inspiration.
 ## Fully websites
 - [Recent Design](https://recent.design/)
 - [Supahero.io](https://www.supahero.io/) **HOT**
+- https://elements.envato.com/de/graphic-templates/ai+dashboard **HOT**
 
 ## Elements
 - [Call To Inspiration](https://calltoinspiration.com/) **HOT** 
