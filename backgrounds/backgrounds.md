@@ -19,6 +19,9 @@ Components and resources for creating static and animated backgrounds in web app
 | Moving circles and squares | [Moving circles and squares](https://codepen.io/tokyoweb/pen/ZjdYVj) |
 | Waves bottom | [Waves bottom](https://codepen.io/abelhancock/pen/aKxmLY) |
 | Dot Gradient **HOT** | [Dot Gradient](https://uiverse.io/SelfMadeSystem/sweet-dolphin-36) |
+| Space Cloud **HOT** | [Space Cloud](https://codepen.io/atzedent/pen/oggKrGW) |
+
+
 
 ## Overview
 
