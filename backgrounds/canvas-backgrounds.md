@@ -7,6 +7,10 @@ Components and resources for creating canvas-based background animations in web 
 | Resource | Link |
 |---|---|
 | AmbientCanvasBackgrounds | [AmbientCanvasBackgrounds](https://github.com/crnacura/AmbientCanvasBackgrounds?tab=readme-ov-file) |
+| Aliens **HOT** | [Aliens](https://codepen.io/VaaLaa/pen/JodbRyL) |
+
+
+
 
 ## Overview
 
