@@ -11,6 +11,7 @@ Components and resources for implementing background elements in web application
 - [Canvas Backgrounds](canvas-backgrounds.md) - Canvas-based background components
 - [Background Images (cc0)](background-images.md) - Background image resources
 - [Animated Gradient Backgrounds](animated-gradient-backgrounds.md) - Animated gradient background components
+- [Parallax Scroll Backgrounds](parallax-scroll-backgrounds.md) - Parallax Scroll Backgrounds
 
 ## Overview
 
