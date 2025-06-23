@@ -27,3 +27,4 @@ Components and resources for creating loading indicators and spinners in web app
 | Masked SVG Loader w/ CSS **HOT** | [Masked SVG Loader w/ CSS](https://codepen.io/jh3y/pen/xxvVoXK) |
 | Masked SVG Loader **HOT** | [Masked SVG Loader](https://codepen.io/jh3y/pen/BabVPVd) |
 | Offset Loading Spinner | [Offset Loading Spinner](https://codepen.io/yuanchuan/pen/ogNqKVR) | 
+| Dark Ripple Pre-Loader (No-JS) **HOT** | [Dark Ripple Pre-Loader (No-JS)](https://codepen.io/pirrera/pen/bNdLYrm) | 
