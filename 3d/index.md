@@ -5,6 +5,7 @@ Components and resources for implementing 3D elements in web applications.
 ## Contents
 
 - [3D Resources](3d.md) - General 3D resources
+- [Three.js Resources](threejs.md) - Three.js resources
 
 ## Overview
 
