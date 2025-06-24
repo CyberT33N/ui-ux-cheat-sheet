@@ -2,6 +2,10 @@
 
 A curated collection of UI/UX resources, code snippets, and design elements for web developers and designers.
 
+## Good websites
+- https://mont-fort.com/fort-energy/
+
+
 ## Table of Contents
 
 ### [UI](ui/index.md)
