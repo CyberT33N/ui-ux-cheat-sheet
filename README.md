@@ -4,6 +4,7 @@ A curated collection of UI/UX resources, code snippets, and design elements for 
 
 ## Good websites
 - https://mont-fort.com/fort-energy/
+- https://neon.com/
 
 
 ## Table of Contents
