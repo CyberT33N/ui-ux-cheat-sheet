@@ -12,6 +12,7 @@ Components and resources for implementing background elements in web application
 - [Background Images (cc0)](background-images.md) - Background image resources
 - [Animated Gradient Backgrounds](animated-gradient-backgrounds.md) - Animated gradient background components
 - [Parallax Scroll Backgrounds](parallax-scroll-backgrounds.md) - Parallax Scroll Backgrounds
+- [Three.js Backgrounds](threejs-backgrounds.md) - Three.js Backgrounds]
 
 ## Overview
 
