@@ -13,7 +13,8 @@ Components and resources for implementing background elements in web application
 - [Animated Gradient Backgrounds](animated-gradient-backgrounds.md) - Animated gradient background components
 - [Parallax Scroll Backgrounds](parallax-scroll-backgrounds.md) - Parallax Scroll Backgrounds
 - [Three.js Backgrounds](threejs-backgrounds.md) - Three.js Backgrounds]
-
+- [WebGPU Rendering Backgrounds](webgpu-rendering-background.md) - WebGPU Rendering Backgrounds]
+  
 ## Overview
 
 This section provides resources for implementing background elements in web applications. From static backgrounds to interactive and animated backgrounds, these components can significantly enhance the visual appeal of your interfaces. 
