@@ -115,7 +115,7 @@ A curated collection of UI/UX resources, code snippets, and design elements for 
 - [Social Media Links](logo-social-media/social-media-links.md)
 
 ### [3D](3d/index.md)
-- [Three.js](3d/threejs.md.md)
+- [Three.js](3d/threejs.md)
 - [3D Resources](3d/3d.md)
 
 ### [Backgrounds](backgrounds/index.md)
