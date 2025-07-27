@@ -15,6 +15,13 @@ Components and resources for creating image carousel sliders in web applications
 | Fullscreen vertical image distortion | [Fullscreen vertical image distortion](https://codepen.io/ashthornton/details/KRQbMO) |
 | Fullscreen 2 | [Fullscreen 2](https://codepen.io/lmgonzalves/pen/djEgmv) |
 | Carousel - shacdn **HOT** | [Carousel](https://shadcn-extension.vercel.app/docs/carousel) |
+| Kinetic Image Animations with React-Three-Fiber **HOT** | [Kinetic Image Animations with React-Three-Fiber](https://tympanus.net/Tutorials/KineticImages/) |
+
+
+
+
+
+
 
 ## Overview
 
