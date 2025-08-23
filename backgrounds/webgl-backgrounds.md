@@ -8,6 +8,9 @@ Components and resources for creating WebGL-powered backgrounds in web applicati
 |---|---|
 | WebGL Fluid Simulation | [WebGL Fluid Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) |
 | Vanta.js **HOT** | [Vanta.js **HOT**](https://www.vantajs.com/?effect=trunk) |
+| Neon Hexagon Truchet Tiles / WebGL Shader **HOT** | [Neon Hexagon Truchet Tiles / WebGL Shader](https://codepen.io/pjkarlik/pen/VYvzqJB)  |
+
+
 
 ## Overview
 
