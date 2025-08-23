@@ -14,6 +14,10 @@ A curated collection of UI/UX resources, code snippets, and design elements for 
 - https://tympanus.net/
 
 
+## Guides
+- https://frontendmasters.com/blog/infinite-marquee-animation-using-modern-css/
+
+
 <br><br>
 
 
