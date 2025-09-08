@@ -8,3 +8,5 @@ Components and resources for creating light and beam effects in web applications
 |---|---|
 | Animated Beam | [Animated Beam](https://nyxbui.design/docs/components/animated-beam) |
 | Animated Beam #2 | [Animated Beam #2](https://magicui.design/docs/components/animated-beam) | 
+| Card Beam Animation **HOT** | [Card Beam Animation](https://codepen.io/blacklead-studio/pen/xbwaqxE) | 
+
