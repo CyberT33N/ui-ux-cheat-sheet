@@ -15,3 +15,6 @@ Components and resources for customizing mouse cursors in web applications.
 | Ink Cursor **HOT** | [Ink Cursor](https://www.edilozi.pro/docs/components/ink-cursor) |
 | Ribbons **HOT** | [Ribbons](https://www.reactbits.dev/animations/ribbons) |
 | Blob Cursor **HOT** | [Blob Cursor](https://www.reactbits.dev/animations/blob-cursor) | 
+| Tubes Cursor **EXTREM HOT** | [Tubes Cursor](https://codepen.io/soju22/pen/qEbdVjK) | 
+
+
